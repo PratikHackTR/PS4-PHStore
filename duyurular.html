@@ -1,1 +1,264 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PHStore Duyurular</title>
+    <style>
+        /* PS4 Arayüzüne Uygun Renk Paleti */
+        :root {
+            --bg-dark: #0a111a; /* Ana arka plan rengi */
+            --bg-panel: #111c27; /* Panel arka planı */
+            --bg-hover: #1a2a3a; /* Hover rengi */
+            --text-main: #e0e6ed; /* Ana metin rengi */
+            --text-muted: #8a9ba8; /* Soluk metin rengi */
+            --accent-color: #59e1c3; /* Turkuaz vurgu rengi (Butonlar, çizgiler) */
+            --border-color: #1f3244; /* Kenarlık rengi */
+        }
 
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background-color: var(--bg-dark);
+            color: var(--text-main);
+            line-height: 1.6;
+            padding: 20px;
+            /* Tarayıcı scrollbar'ını gizle (konsol hissiyatı için) */
+            scrollbar-width: none; 
+        }
+
+        body::-webkit-scrollbar {
+            display: none;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        /* Üst Başlık Alanı */
+        .header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 30px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid var(--border-color);
+        }
+
+        .header h1 {
+            font-size: 24px;
+            font-weight: 600;
+            color: var(--text-main);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .header h1::before {
+            content: '';
+            display: inline-block;
+            width: 8px;
+            height: 24px;
+            background-color: var(--accent-color);
+            border-radius: 4px;
+        }
+
+        /* Duyuru Kart Tasarımı */
+        .announcement-list {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .card {
+            background-color: var(--bg-panel);
+            border-radius: 12px;
+            padding: 25px;
+            border: 1px solid var(--border-color);
+            transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        /* Konsol tarzı focus/hover efekti */
+        .card:hover, .card.active {
+            border-color: var(--accent-color);
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(89, 225, 195, 0.1);
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+
+        .card-title {
+            font-size: 20px;
+            font-weight: 600;
+            color: var(--accent-color);
+        }
+
+        .card-date {
+            font-size: 14px;
+            color: var(--text-muted);
+            background: var(--bg-dark);
+            padding: 4px 10px;
+            border-radius: 20px;
+            border: 1px solid var(--border-color);
+        }
+
+        .card-body {
+            font-size: 15px;
+            color: var(--text-main);
+        }
+
+        .card-body p {
+            margin-bottom: 12px;
+        }
+
+        .card-body p:last-child {
+            margin-bottom: 0;
+        }
+
+        .card-body ul {
+            margin-left: 20px;
+            margin-bottom: 15px;
+        }
+
+        .card-body li {
+            margin-bottom: 8px;
+        }
+
+        .highlight {
+            color: var(--accent-color);
+            font-weight: 600;
+        }
+
+        /* Bilgi Kutusu (Maliyet ve Durum Açıklaması) */
+        .info-box {
+            background: rgba(89, 225, 195, 0.05);
+            border-left: 4px solid var(--accent-color);
+            padding: 15px;
+            border-radius: 0 8px 8px 0;
+            margin-top: 15px;
+            font-size: 14px;
+        }
+
+        /* Animasyon */
+        .card {
+            animation: fadeIn 0.4s ease-out forwards;
+            opacity: 0;
+        }
+        
+        .card:nth-child(1) { animation-delay: 0.1s; }
+        .card:nth-child(2) { animation-delay: 0.2s; }
+        .card:nth-child(3) { animation-delay: 0.3s; }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="header">
+            <h1>PHStore Duyurular</h1>
+        </div>
+
+        <div class="announcement-list">
+            
+            <!-- Duyuru 1 -->
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-title">Olmayan Oyunlar ve Bazı Durumlar</div>
+                    <div class="card-date">Bilgilendirme</div>
+                </div>
+                <div class="card-body">
+                    <p>Herkese merhaba.katalogda bulamadığınız oyunlar ve indirme linkleri hakkında , Durumu şeffaf bir şekilde sizinle paylaşmak istiyorum.</p>
+                    
+                    <p>Bildiğiniz üzere oyunları doğrudan indirebileceğiniz <span class="highlight">"direct-link"</span> alanları oluşturmak ciddi sunucu ve trafik maliyetleri doğuruyor. Ne yazık ki şu anki şartlarda bu masrafları karşılayacak bir durumum yok. Bu yüzden, internette hali hazırda kullanıcılar tarafından paylaşılmış olan linkleri toparlayarak kataloğa ekleyebiliyorum.</p>
+
+                    <div class="info-box">
+                        <p><strong>Gelecek Planları ve Alternatif Çözümler:</strong></p>
+                        <p>Kataloğa daha fazla oyun eklemeyi çok istiyorum ancak mevcut durumda bunu yapamıyorum. Bu sorunu aşmak için alternatif çözüm yolları arıyorum (farklı barındırma yöntemleri, topluluk destekli link havuzları vb.). Bu süreçte anlayışınız için teşekkür ederim. Yeni oyunlar ve stabil linkler eklendikçe buradan duyurmaya devam edeceğim.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Duyuru 2 -->
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-title">PHStore V2 Açıldı</div>
+                    <div class="card-date">Güncelleme</div>
+                </div>
+                <div class="card-body">
+                    <p>Merhaba oyuncular! PHStore arayüzümüzün V2 sürümü yayında. Daha hızlı, daha stabil ve daha şık bir deneyim için uygulamayı baştan aşağı yeniledik.</p>
+                    <ul>
+                        <li>Yeni ve modern kullanıcı arayüzü (UI)</li>
+                        <li>Daha hızlı katalog yükleme süreleri</li>
+                        <li>Gelişmiş indirme yöneticisi</li>
+                        <li>Konsol üzerinde daha akıcı gezinme deneyimi</li>
+                    </ul>
+                    <p>Geri bildirimleriniz bizim için çok değerli. İyi oyunlar!</p>
+                </div>
+            </div>
+
+           <!-- Duyuru 3 -->
+            <div class="card active">
+                <div class="card-header">
+                    <div class="card-title">04.11.2026 Duyuru Paneli eklendi</div>
+                    <div class="card-date">Yeni</div>
+                </div>
+                <div class="card-body">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Uygulama içi klavye/d-pad ile gezinme için ufak bir script -->
+    <script>
+        // Basit bir D-Pad (Yön Tuşları) navigasyon simülasyonu
+        // Homebrew uygulamanızda webview kullanıyorsanız bu script kartlar arasında gezinmeyi sağlar
+        document.addEventListener('keydown', function(e) {
+            const cards = document.querySelectorAll('.card');
+            let currentIndex = -1;
+
+            // Şu an seçili olan kartı bul
+            cards.forEach((card, index) => {
+                if (card.classList.contains('active')) {
+                    currentIndex = index;
+                }
+            });
+
+            if (e.key === 'ArrowDown') {
+                e.preventDefault();
+                if (currentIndex < cards.length - 1) {
+                    if(currentIndex !== -1) cards[currentIndex].classList.remove('active');
+                    cards[currentIndex + 1].classList.add('active');
+                    cards[currentIndex + 1].scrollIntoView({ behavior: 'smooth', block: 'center' });
+                }
+            } else if (e.key === 'ArrowUp') {
+                e.preventDefault();
+                if (currentIndex > 0) {
+                    if(currentIndex !== -1) cards[currentIndex].classList.remove('active');
+                    cards[currentIndex - 1].classList.add('active');
+                    cards[currentIndex - 1].scrollIntoView({ behavior: 'smooth', block: 'center' });
+                }
+            }
+        });
+    </script>
+</body>
+</html>
