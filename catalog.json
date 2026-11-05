@@ -3,7 +3,7 @@
   "name": "PHStoreV2 PS4",
   "updatedAt": "2026-11-05T16:06:51.150483+00:00",
   "games": [
-    {
+      {
       "id": "TR_BATMAN_TELLTALE",
       "title": "Batman Telltalegames TR Dublaj",
       "platform": "ps4",
@@ -12,12 +12,11 @@
         "Türkçe oyunlar"
       ],
       "art": {
-        "cover": "https://i.hizliresim.com/uk5qyuff.png"
+        "cover": "https://i.hizliresim.com/uk5qyuff.png",
         "coverFallbacks": [
-          "https://i.hizliresim.com/vrlp5yof.png",
-          "https://i.hizliresim.com/svhxigov.png"
+          "https://i.hizliresim.com/ymmir763.png"
         ],
-        "tint": "#968e18",
+        "tint": "#ccac45",
         "hero": "https://i.hizliresim.com/6aputtho.png"
       },
       "releases": [
