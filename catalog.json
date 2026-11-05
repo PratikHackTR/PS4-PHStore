@@ -3,6 +3,37 @@
   "name": "PHStoreV2 PS4",
   "updatedAt": "2026-11-05T16:06:51.150483+00:00",
   "games": [
+     
+      "id": "SLUS-44444",
+      "title": "Pou PHStore",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/poukapak.jpg",
+        "tint": "#968e18",
+        "hero": "https://wallpapercave.com/wp/wp15828964.jpg"
+      },
+      "genres": [
+        "PS2toPS4",
+        "Arcade"
+      ],
+      "releases": [
+        {
+          "url": "https://archive.org/download/pou-phstore/PouPHStore.pkg",
+          "label": "PouPHStore.pkg",
+          "filename": "PouPHStore.pkg",
+          "provider": "archive.org",
+          "sizeBytes": 31195136,
+          "version": "01.00",
+          "format": "pkg",
+          "category": "game",
+          "phstoreExpectedTitleId": "CUSA16579"
+        }
+      ],
+      "publisher": "PHStore",
+      "developer": "BurakPH",
+      "releaseDate": "2026-12-10",
+      "turkish": false
+    },
       {
       "id": "TR_BATMAN_TELLTALE",
       "title": "Batman Telltalegames TR Dublaj",
