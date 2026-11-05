@@ -12,7 +12,13 @@
         "Türkçe oyunlar"
       ],
       "art": {
-        "cover": "https://i.hizliresim.com/6aputtho.png"
+        "cover": "https://i.hizliresim.com/uk5qyuff.png"
+        "coverFallbacks": [
+          "https://i.hizliresim.com/vrlp5yof.png",
+          "https://i.hizliresim.com/svhxigov.png"
+        ],
+        "tint": "#968e18",
+        "hero": "https://i.hizliresim.com/6aputtho.png"
       },
       "releases": [
         {
