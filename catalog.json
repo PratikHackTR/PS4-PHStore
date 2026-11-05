@@ -43,12 +43,12 @@
         "Türkçe oyunlar"
       ],
       "art": {
-        "cover": "https://i.hizliresim.com/uk5qyuff.png",
+        "cover": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/batmanTTCover.png",
         "coverFallbacks": [
-          "https://i.hizliresim.com/ymmir763.png"
+          "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/batmanTTcoverback.png"
         ],
         "tint": "#ccac45",
-        "hero": "https://i.hizliresim.com/6aputtho.png"
+        "hero": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/batmantthero.png"
       },
       "releases": [
         {
