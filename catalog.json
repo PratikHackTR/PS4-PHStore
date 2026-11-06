@@ -1,9 +1,9 @@
 {
   "version": 1,
   "name": "PHStoreV2 PS4",
-  "updatedAt": "2026-11-05T16:06:51.150483+00:00",
+  "updatedAt": "2026-11-06",
   "games": [
-     {
+    {
       "id": "SLUS-44444",
       "title": "Pou PHStore",
       "platform": "ps4",
@@ -34,7 +34,7 @@
       "releaseDate": "2026-12-10",
       "turkish": false
     },
-      {
+    {
       "id": "TR_BATMAN_TELLTALE",
       "title": "Batman Telltalegames TR Dublaj",
       "platform": "ps4",
@@ -16689,6 +16689,87 @@
       "developer": "CD PROJEKT RED",
       "releaseDate": "2020-12-10",
       "turkish": true
+    },
+    {
+      "id": "PH_GOW_2018",
+      "title": "God of War (2018)",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://image.api.playstation.com/vulcan/img/rnd/202011/1021/X3WIAh63yKhRRiMohLoJMeQu.png?w=384&thumb=false",
+        "coverFallbacks": [
+          "https://cdn.cloudflare.steamstatic.com/steam/apps/1593500/library_600x900.jpg",
+          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA07410.png"
+        ],
+        "tint": "#5b5a62",
+        "hero": "https://image.api.playstation.com/vulcan/img/rnd/202010/2217/5gDpzRQrhlcegaPf8wW1QIuf.png?w=1920&thumb=false"
+      },
+      "releases": [
+        {
+          "url": "https://vik1ngfile.site/f/RHw3fOwbTP",
+          "browserUrl": "https://vik1ngfile.site/f/RHw3fOwbTP",
+          "filename": "GOW2018.pkg",
+          "sizeBytes": 38701432832,
+          "format": "pkg",
+          "category": "game",
+          "label": "Ana oyun",
+          "requiresBrowser": true
+        },
+        {
+          "url": "https://vikingfile.com/f/dtXOextt41",
+          "browserUrl": "https://vikingfile.com/f/dtXOextt41",
+          "filename": "GowYama.pkg",
+          "sizeBytes": 8360755200,
+          "format": "pkg",
+          "category": "patch",
+          "label": "Türkçe yama — ana oyun gerekir",
+          "requiresBrowser": true
+        }
+      ],
+      "about": [
+        "Ana oyun ve Türkçe yama ayrı indirilir. Önce uyumlu ana oyunu kurun."
+      ]
+    },
+    {
+      "id": "PH_PS2_W2K24",
+      "title": "WWE 2K24 [PS2toPS4]",
+      "platform": "ps4",
+      "art": {
+        "tint": "#34223f"
+      },
+      "releases": [
+        {
+          "url": "https://vik1ngfile.site/f/UW1Z8HFfLI",
+          "filename": "W2K24PHStore.pkg",
+          "sizeBytes": 3119054848,
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": true,
+          "label": "PS2toPS4 sürümü"
+        }
+      ]
+    },
+    {
+      "id": "PH_BEN10_POE_TR",
+      "title": "Ben 10 Protector of Earth [Türkçe Dublaj]",
+      "platform": "ps4",
+      "turkish": true,
+      "genres": [
+        "Türkçe oyunlar"
+      ],
+      "art": {
+        "tint": "#1e4933"
+      },
+      "releases": [
+        {
+          "url": "https://vik1ngfile.site/f/conyJIw7j0",
+          "filename": "Ben 10 Protector of Earth TR.pkg",
+          "sizeBytes": 3424583680,
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": true,
+          "label": "Türkçe dublajlı sürüm"
+        }
+      ]
     }
   ]
 }
