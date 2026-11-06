@@ -16694,6 +16694,12 @@
       "id": "PH_GOW_2018",
       "title": "God of War (2018)",
       "platform": "ps4",
+      "turkish": true,
+      "genres": [
+        "Türkçe oyunlar",
+        "Adventure",
+        "Action"
+      ],
       "art": {
         "cover": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/gow2018trcover.jpg",
         "coverFallbacks": [
