@@ -16695,13 +16695,13 @@
       "title": "God of War (2018)",
       "platform": "ps4",
       "art": {
-        "cover": "https://image.api.playstation.com/vulcan/img/rnd/202011/1021/X3WIAh63yKhRRiMohLoJMeQu.png?w=384&thumb=false",
+        "cover": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/gow2018trcover.jpg",
         "coverFallbacks": [
-          "https://cdn.cloudflare.steamstatic.com/steam/apps/1593500/library_600x900.jpg",
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA07410.png"
+          "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/gow2018trcover.jpg",
+          "https://i.hizliresim.com/anrqyacm.png"
         ],
         "tint": "#5b5a62",
-        "hero": "https://image.api.playstation.com/vulcan/img/rnd/202010/2217/5gDpzRQrhlcegaPf8wW1QIuf.png?w=1920&thumb=false"
+        "hero": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/gow2018trhero.jpg"
       },
       "releases": [
         {
@@ -16721,7 +16721,7 @@
           "sizeBytes": 8360755200,
           "format": "pkg",
           "category": "patch",
-          "label": "Türkçe yama — ana oyun gerekir",
+          "label": "TürkçeDublaj yama — ana oyun gerekir",
           "requiresBrowser": true
         }
       ],
@@ -16734,6 +16734,7 @@
       "title": "WWE 2K24 [PS2toPS4]",
       "platform": "ps4",
       "art": {
+        "cover": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/wwe2k24a.jpg",
         "tint": "#34223f"
       },
       "releases": [
@@ -16757,7 +16758,9 @@
         "Türkçe oyunlar"
       ],
       "art": {
-        "tint": "#1e4933"
+        "cover": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/ben10poeTRcover.jpg",
+        "tint": "#1e4933",
+        "hero": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/ben10poeTRhero.jpg"
       },
       "releases": [
         {
