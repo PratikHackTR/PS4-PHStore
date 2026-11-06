@@ -1,7 +1,7 @@
 # PHStore PS4 — Modern Homebrew Game & Patch Store
 
 [![PS4 Homebrew](https://img.shields.io/badge/PS4-Homebrew-blue.svg)](https://github.com/PratikHackTR)
-[![GoldHEN Compatible](https://img.shields.io/badge/GoldHEN-5.05%20--%2011.00-gold.svg)](https://github.com/PratikHackTR)
+[![GoldHEN Compatible](https://img.shields.io/badge/GoldHEN-5.05%20--%2014.00-gold.svg)](https://github.com/PratikHackTR)
 [![QuickJS Native](https://img.shields.io/badge/Engine-QuickJS%20Native-brightgreen.svg)](https://github.com/PratikHackTR)
 [![Latest Release](https://img.shields.io/badge/Release-v02.42-orange.svg)](https://github.com/PratikHackTR)
 
