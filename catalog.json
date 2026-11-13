@@ -10,7 +10,7 @@
       "releaseDate": "2026-11-13",
       "genres": ["Football", "Sport"],
       "art": {
-        "cover": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/fc27kapak.png",
+        "cover": "https://i.hizliresim.com/btk9u8p8.png",
         "hero": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/fc27hero.png"
       },
       "about": [
@@ -38,7 +38,7 @@
       "releaseDate": "2026-11-13",
       "genres": ["Football", "Sport"],
       "art": {
-        "cover": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/fc27kapak.png",
+        "cover": "https://i.hizliresim.com/btk9u8p8.png",
         "hero": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/fc27hero.png"
       },
       "about": [
@@ -67,7 +67,7 @@
       "releaseDate": "2026-11-13",
       "genres": ["Football", "Sport"],
       "art": {
-        "cover": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/fc27kapak.png",
+        "cover": "https://i.hizliresim.com/btk9u8p8.png",
         "hero": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/fc27hero.png"
       },
       "about": [
@@ -115,7 +115,7 @@
       ],
       "publisher": "PHStore",
       "developer": "BurakPH",
-      "releaseDate": "2026-12-10",
+      "releaseDate": "2026-11-10",
       "turkish": false
     },
     {
