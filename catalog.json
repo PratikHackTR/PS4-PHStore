@@ -1,8 +1,92 @@
 {
   "version": 1,
   "name": "PHStoreV2 PS4",
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-13",
   "games": [
+    {
+      "id": "PH_FC27_BASE",
+      "title": "FC27 · 1 · Ana oyun",
+      "platform": "ps4",
+      "releaseDate": "2026-11-13",
+      "genres": ["Football", "Sport"],
+      "art": {
+        "cover": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/fc27kapak.png",
+        "hero": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/fc27hero.png"
+      },
+      "about": [
+        "FC27 kurulumu üç ayrı PKG dosyasından oluşur. Kurulum sırası: 1. Ana oyun → 2. Unlocker → 3. Güncelleme.",
+        "Önce bu ana oyunu indirip kurun. Ardından katalogda FC27 araması yaparak ikinci ve üçüncü dosyaları ayrı ayrı indirip kurun.",
+        "Unlocker ikinci kurulması gereken en önemli dosyadır. Bu katalog dosyaları otomatik sıraya koymaz; her adımın kurulumu tamamlandıktan sonra sonraki adıma geçin."
+      ],
+      "releases": [
+        {
+          "url": "https://vik1ngfile.site/f/zI9BfLEH1Q",
+          "browserUrl": "https://vik1ngfile.site/f/zI9BfLEH1Q",
+          "filename": "fc27.pkg",
+          "provider": "vik1ngfile.site",
+          "format": "pkg",
+          "category": "game",
+          "label": "1 · Ana oyun — önce bunu kurun",
+          "requiresBrowser": true
+        }
+      ]
+    },
+    {
+      "id": "PH_FC27_UNLOCKER",
+      "title": "FC27 · 2 · Unlocker",
+      "platform": "ps4",
+      "releaseDate": "2026-11-13",
+      "genres": ["Football", "Sport"],
+      "art": {
+        "cover": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/fc27kapak.png",
+        "hero": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/fc27hero.png"
+      },
+      "about": [
+        "Bu dosya bağımsız bir oyun değildir; FC27 kurulumunun ikinci adımıdır.",
+        "Unlocker ikinci kurulması gereken en önemli dosyadır. Önce FC27 · 1 · Ana oyun paketini kurun, sonra bu Unlocker paketini kurun.",
+        "Son olarak FC27 · 3 · Güncelleme paketini indirip kurun. Sıra: Ana oyun → Unlocker → Güncelleme."
+      ],
+      "releases": [
+        {
+          "url": "https://archive.org/download/unlocker_202611/unlocker.pkg",
+          "filename": "unlocker.pkg",
+          "sizeBytes": 1048576,
+          "phstoreExpectedTitleId": "CUSA57220",
+          "provider": "archive.org",
+          "format": "pkg",
+          "category": "game",
+          "label": "2 · Unlocker — ana oyundan sonra kurun",
+          "requiresBrowser": false
+        }
+      ]
+    },
+    {
+      "id": "PH_FC27_UPDATE",
+      "title": "FC27 · 3 · Güncelleme",
+      "platform": "ps4",
+      "releaseDate": "2026-11-13",
+      "genres": ["Football", "Sport"],
+      "art": {
+        "cover": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/fc27kapak.png",
+        "hero": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/fc27hero.png"
+      },
+      "about": [
+        "Bu dosya bağımsız bir oyun değildir; FC27 kurulumunun üçüncü ve son adımıdır.",
+        "Önce FC27 · 1 · Ana oyun, ardından FC27 · 2 · Unlocker paketini kurun. Güncellemeyi en son kurun.",
+        "Kurulum sırası: Ana oyun → Unlocker → Güncelleme."
+      ],
+      "releases": [
+        {
+          "url": "https://vik1ngfile.site/f/zTV0D0vfvO",
+          "browserUrl": "https://vik1ngfile.site/f/zTV0D0vfvO",
+          "provider": "vik1ngfile.site",
+          "format": "pkg",
+          "category": "game",
+          "label": "3 · Güncelleme — en son kurun",
+          "requiresBrowser": true
+        }
+      ]
+    },
     {
       "id": "SLUS-44444",
       "title": "Pou PHStore",
@@ -16732,6 +16816,53 @@
           "requiresBrowser": true
         }
       ],
+      "releaseDate": "2026-11-10",
+      "about": [
+        "Ana oyun ve Türkçe yama ayrı indirilir. Önce uyumlu ana oyunu kurun."
+      ]
+    },
+    {
+      "id": "PH_RDR2_2018",
+      "title": "Red Dead Redemption 2 (2018)",
+      "platform": "ps4",
+      "turkish": true,
+      "genres": [
+        "Türkçe oyunlar",
+        "Adventure",
+        "Action"
+      ],
+      "art": {
+        "cover": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/RDR2kapak.png",
+        "coverFallbacks": [
+          "https://i.hizliresim.com/ld0gwieh.png",
+          "https://i.hizliresim.com/njatjfel.png"
+        ],
+        "tint": "#5b5a62",
+        "hero": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/RDR2hero.png"
+      },
+      "releases": [
+        {
+          "url": "https://vik1ngfile.site/f/Zl4rVTFh8F", 
+          "browserUrl": "https://vik1ngfile.site/f/Zl4rVTFh8F",
+          "filename": "RDR2base.pkg",
+          "sizeBytes": 79430000000,
+          "format": "pkg",
+          "category": "game",
+          "label": "Ana oyun",
+          "requiresBrowser": true
+        },
+        {
+          "url": "https://vik1ngfile.site/f/B4srpPl9Bc",
+          "browserUrl": "https://vik1ngfile.site/f/B4srpPl9Bc",
+          "filename": "RDR2 TRYama.pkg",
+          "sizeBytes": 20520000000,
+          "format": "pkg",
+          "category": "patch",
+          "label": "Türkçe yama — ana oyun gerekir",
+          "requiresBrowser": true
+        }
+      ],
+      "releaseDate": "2026-11-13",
       "about": [
         "Ana oyun ve Türkçe yama ayrı indirilir. Önce uyumlu ana oyunu kurun."
       ]
@@ -16756,6 +16887,36 @@
         }
       ]
     },
+        {
+      "id": "PH_PS2_PES27",
+      "title": "PES 27 [PS2toPS4]",
+      "platform": "ps2",
+      "genres": [
+        "Football",
+        "Simulation",
+        "Sport",
+        "PS2toPS4"
+      ],
+      "art": {
+        "cover": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/PS2toPS4%20PES27.jpg",
+        "tint": "#34223f",
+        "hero": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/PS2toPS4%20PES27%20HERO.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://vik1ngfile.site/f/buN6ZAsSRC",
+          "filename": "Pes 27 PS2 PHStore.pkg",
+          "sizeBytes": 2641404887,
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": true,
+          "label": "PS2toPS4 sürümü"
+        }
+      ],
+      "publisher": "PHStore",
+      "developer": "MateusWJD",
+      "releaseDate": "2026-11-13"
+    },
     {
       "id": "PH_BEN10_POE_TR",
       "title": "Ben 10 Protector of Earth [Türkçe Dublaj]",
@@ -16779,7 +16940,8 @@
           "requiresBrowser": true,
           "label": "Türkçe dublajlı sürüm"
         }
-      ]
+      ],
+      "releaseDate": "2026-11-09"
     }
   ]
 }
