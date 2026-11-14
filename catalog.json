@@ -1,14 +1,1438 @@
 {
   "version": 1,
-  "name": "PHStoreV2 PS4",
-  "updatedAt": "2026-11-13",
+  "name": "PHStore PS4",
+  "updatedAt": "2026-11-14",
   "games": [
+    {
+      "id": "JL8LLDRW6_DeepFreeze",
+      "title": "Resident Evil 2 — Deep Freeze [PS1toPS4]",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0204/uDFoGvnMTTCLVmTwjj0njGWC.png?w=384&thumb=false"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/p1l5a65nzywtpe5/Resident+Evil+2+Deep+Freeze.pkg/file",
+          "filename": "Resident Evil 2 Deep Freeze.pkg",
+          "sizeBytes": 456785920,
+          "label": "Game - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "SLUS00421"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "genres": [
+        "PS1toPS4"
+      ]
+    },
+    {
+      "id": "JL8LLDRW6_UnicornCut",
+      "title": "Resident Evil 2 — Unicorn Cut [PS1toPS4]",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0204/uDFoGvnMTTCLVmTwjj0njGWC.png?w=384&thumb=false"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/f8h1r7t3fb6xq7b/Resident+Evil+Unicorn+Cut.pkg/file",
+          "filename": "Resident Evil Unicorn Cut.pkg",
+          "sizeBytes": 485556224,
+          "label": "Game - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "SLUS00748"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "genres": [
+        "PS1toPS4"
+      ]
+    },
+    {
+      "id": "JL5P65X19",
+      "title": "99 Vidas",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://1.bp.blogspot.com/-Iv_kBWQZFEg/W2QmZXbeLNI/AAAAAAAAOIU/jjZYC6MULPMqHRH4ZJdr8cv3QXSNLhxVgCLcBGAs/s400/5.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/vazfdgv5757li02/hako-99vidas.ps4-prelude.rar/file",
+          "filename": "hako-99vidas.ps4-prelude.rar",
+          "sizeBytes": 264727056,
+          "label": "Archive - MediaFire",
+          "provider": "MediaFire",
+          "format": "rar",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreDiscoverTitleId": true,
+          "archivePassword": "hako",
+          "phstoreExpectedTitleId": "CUSA05187"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JLEDA5U98",
+      "title": "Advan Racing",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://dlpsgame.com/wp-content/uploads/2024/11/3-4.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/dmilt715jn34y0p/Advan+Racing.pkg/file",
+          "filename": "Advan Racing.pkg",
+          "sizeBytes": 512360448,
+          "label": "Game - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "SLPS01689"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JL77B9TYK",
+      "title": "Alien Trilogy",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://1.bp.blogspot.com/-gZJGiCXTuAw/Yw7cGKsNkiI/AAAAAAAAKcA/AcSSGPKzswIpO7Av992YRzFaUJEjY1c6gCNcBGAsYHQ/s0/96.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/iyxpvhqpn1n0hg2/Alien+Trilogy.pkg/file",
+          "filename": "Alien Trilogy.pkg",
+          "sizeBytes": 494665728,
+          "label": "Game - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "STRN27583"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JL3NACPVT",
+      "title": "Arcade Gears Image Fight and XMultiply",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://dlpsgame.com/wp-content/uploads/2024/09/110.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/vjig38ewnwhyk2x/AG4000IFXM.rar/file",
+          "filename": "AG4000IFXM.rar",
+          "sizeBytes": 607191356,
+          "label": "Archive - MediaFire",
+          "provider": "MediaFire",
+          "format": "rar",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreDiscoverTitleId": true
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JLE48RP6Z",
+      "title": "Boombots",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://1.bp.blogspot.com/-wSmlj73UPXg/Yo3ZVdAMwDI/AAAAAAAAJwc/wMDQYSgrZ-AGTzx1_APRoJpj4lADjLClwCNcBGAsYHQ/s0/10.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/em26vmuz16osxr3/UP9000-SLUS00968_00-SCUS942400000000-A0100-V0100.pkg/file",
+          "filename": "UP9000-SLUS00968_00-SCUS942400000000-A0100-V0100.pkg",
+          "sizeBytes": 377815040,
+          "version": "1.00",
+          "label": "Game v1.00 - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "SLUS00968"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JLAAYO0VU",
+      "title": "Bug",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://1.bp.blogspot.com/-w6Klsn9KzaY/ZbCH1yRylqI/AAAAAAAAFBM/BA6cR5zCJ5UYlU8rqYOGeGUBPqkCK7eoQCNcBGAsYHQ/s0/80.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/s66pyyvxkvasl4l/Bug.pkg/file",
+          "filename": "Bug.pkg",
+          "sizeBytes": 243859456,
+          "label": "Game - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "STRN65439"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JL4UBX9FI",
+      "title": "Bug Too",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://1.bp.blogspot.com/-2isz2migxjo/ZbCH1_Hhr6I/AAAAAAAAFBI/fLggIY-be68IA1pKwJ8uLZ1p-hlB6lpOwCNcBGAsYHQ/s0/79.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/ayq55007o8y5tk5/Bug+Too.pkg/file",
+          "filename": "Bug Too.pkg",
+          "sizeBytes": 660602880,
+          "label": "Game - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "STRN36243"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "CUSA15101",
+      "title": "Castlevania Anniversary Collection",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://image.api.playstation.com/cdn/UP0101/CUSA15109_00/FX4LMtyaWxdISYpDTqZhqycaPrfzmJYR.png?w=384&thumb=false"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/lyv15f2msqt7byt/hako-unlimited-castlevania.anniversary.collection.ps4.rar/file",
+          "filename": "hako-unlimited-castlevania.anniversary.collection.ps4.rar",
+          "sizeBytes": 688748245,
+          "label": "Archive - MediaFire",
+          "provider": "MediaFire",
+          "format": "rar",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreDiscoverTitleId": true
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JL1SJ84T5",
+      "title": "Castleween",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://dlpsgame.com/wp-content/uploads/2024/11/3.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/sc3syqkmd3hfp8u/UP9000-SLES51249_00-SLES512490000001-A0100-V0100.pkg/file",
+          "filename": "UP9000-SLES51249_00-SLES512490000001-A0100-V0100.pkg",
+          "sizeBytes": 486342656,
+          "version": "1.00",
+          "label": "Game v1.00 - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "SLES51249"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JL42JKX6S",
+      "title": "Chicken Assassin Reloaded",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://image.api.playstation.com/cdn/UP3385/CUSA12055_00/4w08eSyQjYmaXn5KMIKjBk53CFbIOgEs.png?w=384&thumb=false"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/rit08jr5i9o27zu/C_12742_v1.00_[5.05]_OPOISSO893.rar/file",
+          "filename": "C_12742_v1.00_[5.05]_OPOISSO893.rar",
+          "sizeBytes": 408879682,
+          "version": "1.00",
+          "label": "Archive v1.00 - MediaFire",
+          "provider": "MediaFire",
+          "format": "rar",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreDiscoverTitleId": true
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JL66XNC6P",
+      "title": "Codename Tenka",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://1.bp.blogspot.com/-Em5d6PG0Ysk/Za5r-oMw4SI/AAAAAAAAE6E/UAS2mWUY8sQYWhcA-lkcf8azDI-aTD43wCNcBGAsYHQ/s0/235.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/j8rek7pdtkxwjf6/UP9000-SCUS94409_00-SCUS946400000000-A0100-V0103.pkg/file",
+          "filename": "UP9000-SCUS94409_00-SCUS946400000000-A0100-V0103.pkg",
+          "sizeBytes": 705822720,
+          "version": "1.00",
+          "label": "Game v1.00 - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "SCUS94409"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JL3RDZQZA",
+      "title": "Dark Tales From The Lost Soul",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://dlpsgame.com/wp-content/uploads/2024/11/8.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/862v7jjiy5rikew/Dark+Tales+from+The+Lost+Soul.pkg/file",
+          "filename": "Dark Tales from The Lost Soul.pkg",
+          "sizeBytes": 480509952,
+          "label": "Game - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "SLPS02316"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "CUSA10484",
+      "title": "Dead Cells",
+      "platform": "ps4",
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/ox8p9al3m5jmc3p/hako-dc-11253-100b.rar",
+          "filename": "hako-dc-11253-100b.rar",
+          "sizeBytes": 454670262,
+          "label": "Archive - MediaFire",
+          "provider": "MediaFire",
+          "format": "rar",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreDiscoverTitleId": true
+        },
+        {
+          "url": "https://www.mediafire.com/file/ms11e6c515subgs/hako-duplex-dead.cells.ps4.rar",
+          "filename": "hako-duplex-dead.cells.ps4.rar",
+          "sizeBytes": 522920601,
+          "label": "Archive - MediaFire",
+          "provider": "MediaFire",
+          "format": "rar",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreDiscoverTitleId": true
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "CUSA15250",
+      "title": "Deltarune",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202504/1011/35bfbfc8cd3fbff2cbdedf2da91412e44161f195824502f8.png?w=384&thumb=false"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/y9n8y2zu8x1173u/EP3746-CUSA15250_00-TFSHVCDRPS4EU084-A0100-V0103.pkg/file",
+          "filename": "EP3746-CUSA15250_00-TFSHVCDRPS4EU084-A0100-V0103.pkg",
+          "sizeBytes": 173539328,
+          "version": "1.00",
+          "label": "Game v1.00 - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "CUSA15250"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JL38Z39MR",
+      "title": "Demolition Girl",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://1.bp.blogspot.com/-_BMb911dJtI/Za4yQlSExLI/AAAAAAAAE2Q/R81HBZ2Y04AF6jt1UWUol48CWYFNBNt1gCNcBGAsYHQ/s0/203.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/gfnodvrwq6x9lmn/demolitiongirl.rar/file",
+          "filename": "demolitiongirl.rar",
+          "sizeBytes": 675742025,
+          "label": "Archive - MediaFire",
+          "provider": "MediaFire",
+          "format": "rar",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreDiscoverTitleId": true
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "CUSA04236",
+      "title": "Don't Starve Together",
+      "platform": "ps4",
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/j2ppppe0rm1u0rk/Dont.Starve.Together.Console.Edition.v1.00-CUSA04236.rar",
+          "filename": "Dont.Starve.Together.Console.Edition.v1.00-CUSA04236.rar",
+          "sizeBytes": 496568473,
+          "version": "1.00",
+          "label": "Archive v1.00 - MediaFire",
+          "provider": "MediaFire",
+          "format": "rar",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreDiscoverTitleId": true
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JL9NLMYTJ",
+      "title": "Echo Night 2 Nemuri no Shihaisha",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://1.bp.blogspot.com/-7nWcfYxl0wk/Y0Yz0qKP3eI/AAAAAAAAMr8/yfREAEmj4B46BI7RXi8I_8p8hIw8lq_6ACNcBGAsYHQ/s0/92.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/dpelb8nivac6ivj/UP9000-EHNT00002_00-SCUS946400000000-A0100-V0103.pkg/file",
+          "filename": "UP9000-EHNT00002_00-SCUS946400000000-A0100-V0103.pkg",
+          "sizeBytes": 798490624,
+          "version": "1.00",
+          "label": "Game v1.00 - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "EHNT00002"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JL31J8SA4",
+      "title": "Elemental Gearbolt",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://dlpsgame.com/wp-content/uploads/2024/11/1-9.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/i4xmx9w88xqj2x7/Elemental+Gearbolt.pkg/file",
+          "filename": "Elemental Gearbolt.pkg",
+          "sizeBytes": 350814208,
+          "label": "Game - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "SLUS00654"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "CUSA13483",
+      "title": "Farm Together",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://image.api.playstation.com/cdn/UP0903/CUSA13492_00/V8sGHdC0e0fRs8BEkmMYprsadG2NFhdm.png?w=384&thumb=false"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/axxmy9qkbh7bog5/Farm.Together.v1.00-CUSA13483.rar",
+          "filename": "Farm.Together.v1.00-CUSA13483.rar",
+          "sizeBytes": 696257461,
+          "version": "1.00",
+          "label": "Archive v1.00 - MediaFire",
+          "provider": "MediaFire",
+          "format": "rar",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreDiscoverTitleId": true
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "CUSA32946",
+      "title": "Final Vendetta",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202204/0503/BcMZ1axf3eiOXfVlsVwmeDr5.png?w=384&thumb=false"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/y0bhf61y6e6hatl/Final.Vendetta.v1.00-CUSA32946.rar",
+          "filename": "Final.Vendetta.v1.00-CUSA32946.rar",
+          "sizeBytes": 404569954,
+          "version": "1.00",
+          "label": "Archive v1.00 - MediaFire",
+          "provider": "MediaFire",
+          "format": "rar",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreDiscoverTitleId": true
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JL35RWWBQ",
+      "title": "Funky Head Boxers Plus",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://dlpsgame.com/wp-content/uploads/2024/11/10.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/jfhr485klr7ksrp/Funky+Head+Boxers+PLUS.pkg/file",
+          "filename": "Funky Head Boxers PLUS.pkg",
+          "sizeBytes": 260636672,
+          "label": "Game - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "STRN10666"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JL1IN5I1X",
+      "title": "Gale Racer",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://dlpsgame.com/wp-content/uploads/2024/11/11.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/rqr3igcebk12z6v/Gale+Racer.pkg/file",
+          "filename": "Gale Racer.pkg",
+          "sizeBytes": 474546176,
+          "label": "Game - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "STRN48290"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "CUSA14515",
+      "title": "Gladiator Blades of Fury",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://1.bp.blogspot.com/-U1wJZyslriU/Y98u4lkQ7dI/AAAAAAAAInE/xx22ya-MJPUqaCUmYA_l_3WWfwuLL-25QCNcBGAsYHQ/s0/2.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/97d9ilcelgwkkih/Gladiators.Blades.of.Fury.v1.00-CUSA14515.rar",
+          "filename": "Gladiators.Blades.of.Fury.v1.00-CUSA14515.rar",
+          "sizeBytes": 746371914,
+          "version": "1.00",
+          "label": "Archive v1.00 - MediaFire",
+          "provider": "MediaFire",
+          "format": "rar",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreDiscoverTitleId": true
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JL84APLUW",
+      "title": "Glover",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1257880/library_600x900.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/ydiilj60jpglazz/%255BSLUS00890%255D_Glover_%255BDither_OFF%255D_%255BPSXToPS4%255D.pkg/file",
+          "filename": "[SLUS00890] Glover [Dither OFF] [PSXToPS4].pkg",
+          "sizeBytes": 540278784,
+          "label": "Game - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "SLUS00890"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JL7ODFAWB",
+      "title": "Golden Force",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202012/1713/UQ5JbT76y8Mf5yWezu9ClLCL.png?w=384&thumb=false"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/5ig68kxw8r4b9ri/Golden.Force.V1.00-CUSA-25791.rar",
+          "filename": "Golden.Force.V1.00-CUSA-25791.rar",
+          "sizeBytes": 224261169,
+          "version": "1.00",
+          "label": "Archive v1.00 - MediaFire",
+          "provider": "MediaFire",
+          "format": "rar",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreDiscoverTitleId": true
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JLAMJOX2T",
+      "title": "Independence Day",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://dlpsgame.com/wp-content/uploads/2024/09/27-1.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/xdtrsjhprbiklvr/Independence+Day.pkg/file",
+          "filename": "Independence Day.pkg",
+          "sizeBytes": 452853760,
+          "label": "Game - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "STRN41058"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JL5AIA48I",
+      "title": "Johnny Bravo Date o Rama",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://1.bp.blogspot.com/-mZsrYAwkWcQ/Za3oM-jBdOI/AAAAAAAAEyY/2W4N2ARglWc7nBUyT1vldhzN1ce1fDLZwCNcBGAsYHQ/s0/163.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/p110jn7o6y24dw9/UP9000-SLES54671_00-SLES546710000001-A0100-V0100.pkg/file",
+          "filename": "UP9000-SLES54671_00-SLES546710000001-A0100-V0100.pkg",
+          "sizeBytes": 360579072,
+          "version": "1.00",
+          "label": "Game v1.00 - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "SLES54671"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "CUSA42304",
+      "title": "Labyrinth",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202307/1910/7a031d02fe476dea882ec42e0253131a374789e9da0db71b.png?w=384&thumb=false"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/axjdasv675dl6c4/CUSA42304_Labyrinth_v1.03_9.00_Oxeres.pkg/file",
+          "filename": "CUSA42304_Labyrinth_v1.03_9.00_Oxeres.pkg",
+          "sizeBytes": 378929152,
+          "version": "1.03",
+          "label": "Game v1.03 - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "CUSA42304"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JL3TUSONA",
+      "title": "Layer Section 2",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://dlpsgame.com/wp-content/uploads/2024/09/113.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/beu2anc8bo9t2ue/LS2000STRN.rar/file",
+          "filename": "LS2000STRN.rar",
+          "sizeBytes": 714277180,
+          "label": "Archive - MediaFire",
+          "provider": "MediaFire",
+          "format": "rar",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreDiscoverTitleId": true
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "CUSA33277",
+      "title": "MADiSON",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202205/0516/f7oW1UcdrCvZZ3Vfb1DZySY8.png?w=384&thumb=false"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/wxo75hzib1yxvkq/Madison.v1.00-CUSA33277.rar",
+          "filename": "Madison.v1.00-CUSA33277.rar",
+          "sizeBytes": 871164264,
+          "version": "1.00",
+          "label": "Archive v1.00 - MediaFire",
+          "provider": "MediaFire",
+          "format": "rar",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreDiscoverTitleId": true
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JLEERTTT4",
+      "title": "Men In Black The Series Crashdown",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://1.bp.blogspot.com/-FBPAhbMG6WI/Za5zJGcL9qI/AAAAAAAAE64/Fxr0TGnaSzkm15KS42aJo3yZ0mwUI-rYQCNcBGAsYHQ/s0/241.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/t6dt8iulijxgn4j/UP9000-SLUS01387_00-SCUS946400000000-A0100-V0103.pkg/file",
+          "filename": "UP9000-SLUS01387_00-SCUS946400000000-A0100-V0103.pkg",
+          "sizeBytes": 694484992,
+          "version": "1.00",
+          "label": "Game v1.00 - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "SLUS01387"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "CUSA19057",
+      "title": "Minoria",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1116/y8xu61l5tRszPlYGZBJSS8GG.png?w=384&thumb=false"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/c844712o08q0hml/Minoria.v1.00-CUSA19057.rar",
+          "filename": "Minoria.v1.00-CUSA19057.rar",
+          "sizeBytes": 543595640,
+          "version": "1.00",
+          "label": "Archive v1.00 - MediaFire",
+          "provider": "MediaFire",
+          "format": "rar",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreDiscoverTitleId": true
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "CUSA20472",
+      "title": "Morbid The Seven Acolytes",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2715/usiqtct5gNf8ilfuK3nFYhZv.png?w=384&thumb=false"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/iik0zxhuotpiz91/Morbid.The.Seven.Acolytes.v1.00-CUSA20472.rar",
+          "filename": "Morbid.The.Seven.Acolytes.v1.00-CUSA20472.rar",
+          "sizeBytes": 419112784,
+          "version": "1.00",
+          "label": "Archive v1.00 - MediaFire",
+          "provider": "MediaFire",
+          "format": "rar",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreDiscoverTitleId": true
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JL9W13GH1",
+      "title": "Oceanhorn Monster of Uncharted Seas",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://4.bp.blogspot.com/-o6_2xGI1qmI/WsDhHNb8RrI/AAAAAAAAEsw/gYI1k7f_f70MF0vrq7dTU-i_UTmqtPwjACLcBGAs/s400/6.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/zsbgyfouosz50qy/Oceanhorn.Monster.of.Uncharted.Seas.v1.00-CUSA-05010.rar",
+          "filename": "Oceanhorn.Monster.of.Uncharted.Seas.v1.00-CUSA-05010.rar",
+          "sizeBytes": 423184601,
+          "version": "1.00",
+          "label": "Archive v1.00 - MediaFire",
+          "provider": "MediaFire",
+          "format": "rar",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreDiscoverTitleId": true
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "CUSA27284",
+      "title": "Okinawa Rush",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202110/0715/O8KvAcAvb2PJN8auv1QulKLw.png?w=384&thumb=false"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/elw39148ipyk5b1/Okinawa.Rush.v1.00-CUSA27284.rar",
+          "filename": "Okinawa.Rush.v1.00-CUSA27284.rar",
+          "sizeBytes": 488782211,
+          "version": "1.00",
+          "label": "Archive v1.00 - MediaFire",
+          "provider": "MediaFire",
+          "format": "rar",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreDiscoverTitleId": true
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JLBD6Z4NC",
+      "title": "Paranoia Scape",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://dlpsgame.com/wp-content/uploads/2024/11/9.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/g3wwttlkx2ufc9r/Paranoia+Scape.pkg/file",
+          "filename": "Paranoia Scape.pkg",
+          "sizeBytes": 500432896,
+          "label": "Game - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "SLPS01375"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JLA780J0D",
+      "title": "Peak Performance",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://dlpsgame.com/wp-content/uploads/2024/11/4-2.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/xi8vzlf10zqu0dh/Touge+Max+-+Saisoku+Driver+Master.pkg/file",
+          "filename": "Touge Max - Saisoku Driver Master.pkg",
+          "sizeBytes": 632684544,
+          "label": "Game - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "SLPS00592"
+        },
+        {
+          "url": "https://www.mediafire.com/file/kfukfeyvwt4p1i7/Peak+Performance.pkg/file",
+          "filename": "Peak Performance.pkg",
+          "sizeBytes": 633208832,
+          "label": "Game - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "SLES00727"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "CUSA04915",
+      "title": "Pinball FX3",
+      "platform": "ps4",
+      "releases": [
+        {
+          "url": "http://www.mediafire.com/file/tz7dp2mhh099f50/%255BGM%255DPFX3v115%255BUS%255D.rar/file",
+          "filename": "[GM]PFX3v115[US].rar",
+          "sizeBytes": 780588692,
+          "label": "Archive - MediaFire",
+          "provider": "MediaFire",
+          "format": "rar",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreDiscoverTitleId": true
+        },
+        {
+          "url": "https://www.mediafire.com/file/hmad2fwdbz6n4mg/Pinball.FX3.v1.00-CUSA04915.rar",
+          "filename": "Pinball.FX3.v1.00-CUSA04915.rar",
+          "sizeBytes": 445291634,
+          "version": "1.00",
+          "label": "Archive v1.00 - MediaFire",
+          "provider": "MediaFire",
+          "format": "rar",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreDiscoverTitleId": true
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JL6EMWVMB",
+      "title": "Power Rangers Battle For The Grid",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://image.api.playstation.com/cdn/UP4827/CUSA15145_00/8SF61SoBSGvTqxFB9uqgjdvBKnlipoPE.png?w=384&thumb=false"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/rtl2y8eq64zfkn7/hako-duplex-power.rangers.battle.for.the.grid.ps4.rar/file",
+          "filename": "hako-duplex-power.rangers.battle.for.the.grid.ps4.rar",
+          "sizeBytes": 646624091,
+          "label": "Archive - MediaFire",
+          "provider": "MediaFire",
+          "format": "rar",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreDiscoverTitleId": true
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JL5B9PCPL",
+      "title": "Quake 2 [PS1toPS4]",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://1.bp.blogspot.com/-ez5G4FhbTBg/Yo3ZW4nnPrI/AAAAAAAAJwo/uXYp_lvUEF4CkkXpm_dU5IBiOptRATNBACNcBGAsYHQ/s0/16.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/o6k8f898skk065e/UP9000-SLUS00757_00-SCUS942400000000-A0100-V0100.pkg/file",
+          "filename": "UP9000-SLUS00757_00-SCUS942400000000-A0100-V0100.pkg",
+          "sizeBytes": 748617728,
+          "version": "1.00",
+          "label": "Game v1.00 - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "SLUS00757"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "CUSA13546",
+      "title": "RemiLore Lost Girl in The Lands of Lore",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://image.api.playstation.com/cdn/UP2103/CUSA12895_00/2PXPQYOs68G7XRoEZSPSPwxLxCPa8ToU.png?w=384&thumb=false"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/c05urkmzn8c1kvo/[Downloadgameps3.com]-RemiLore_Lost_Girl_in_The_Lands_of_Lore.pkg/file",
+          "filename": "[Downloadgameps3.com]-RemiLore_Lost_Girl_in_The_Lands_of_Lore.pkg",
+          "sizeBytes": 498073600,
+          "label": "Game - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "CUSA13546"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JL2X47Z4L",
+      "title": "Rumble Racing",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://1.bp.blogspot.com/-Yw70BGgT8yM/Za3oMNqWiNI/AAAAAAAAEyQ/X317bMDaCfAVlbnWX0u_nlA8BcYkuVTfgCNcBGAsYHQ/s0/161.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/0l4ru7zzi2ewv8y/UP9000-SLUS20174_00-SLUS201740000001-A0100-V0100.pkg/file",
+          "filename": "UP9000-SLUS20174_00-SLUS201740000001-A0100-V0100.pkg",
+          "sizeBytes": 534511616,
+          "version": "1.00",
+          "label": "Game v1.00 - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "SLUS20174"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "CUSA14669",
+      "title": "Sayonara Wild Hearts",
+      "platform": "ps4",
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/gbxosehzjjrfh6t/hako-duplex-sayonara.wild.hearts.ps4.rar",
+          "filename": "hako-duplex-sayonara.wild.hearts.ps4.rar",
+          "sizeBytes": 647456329,
+          "label": "Archive - MediaFire",
+          "provider": "MediaFire",
+          "format": "rar",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreDiscoverTitleId": true
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JL6VWPZMA",
+      "title": "Shadow Tower Abyss",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://3.bp.blogspot.com/-8MHAFElWrJ4/XlTOkLa9UgI/AAAAAAAAZCw/rNcidk79kV07DYpSolMAgg5wXEM1w38SQCLcBGAsYHQ/s400/168.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/smgf3cahreduj7k/UP9000-SLPS25217_00-SLPS252170000001-A0100-V0100.pkg/file",
+          "filename": "UP9000-SLPS25217_00-SLPS252170000001-A0100-V0100.pkg",
+          "sizeBytes": 375586816,
+          "version": "1.00",
+          "label": "Game v1.00 - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "SLPS25217"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JLDJ382HE",
+      "title": "Spider Man Web of Shadows",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://1.bp.blogspot.com/-hZpJegMtOXQ/XlTPCbDWTII/AAAAAAAAZGo/cUIbcgChlngUBtVAhfeOSGvPBYDSGReVQCLcBGAsYHQ/s400/224.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/9wpouavqphbnua7/UP9000-SLES55372_00-SLES553720000001-A0100-V0100.pkg/file",
+          "filename": "UP9000-SLES55372_00-SLES553720000001-A0100-V0100.pkg",
+          "sizeBytes": 610533376,
+          "version": "1.00",
+          "label": "Game v1.00 - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "SLES55372"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "CUSA01994",
+      "title": "STARWHAL",
+      "platform": "ps4",
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/wxxnn3qifl9q1hk/hako-unlimited.starwhal.ps4.rar",
+          "filename": "hako-unlimited.starwhal.ps4.rar",
+          "sizeBytes": 212190246,
+          "label": "Archive - MediaFire",
+          "provider": "MediaFire",
+          "format": "rar",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreDiscoverTitleId": true
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JL4M7IQRV",
+      "title": "Super Shot Soccer",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://dlpsgame.com/wp-content/uploads/2024/08/52-1.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/9wkamxqif07j8ij/UP9000-SLUS01464_00-SCUS94426PSXFPKG-A0100-V0100.pkg/file",
+          "filename": "UP9000-SLUS01464_00-SCUS94426PSXFPKG-A0100-V0100.pkg",
+          "sizeBytes": 452722688,
+          "version": "1.00",
+          "label": "Game v1.00 - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "SLUS01464"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JL1RDJ7NB",
+      "title": "Terra Cresta 3D",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://dlpsgame.com/wp-content/uploads/2024/09/114.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/5zubyasbl7cdm9r/T3D000STRN.rar/file",
+          "filename": "T3D000STRN.rar",
+          "sizeBytes": 392823100,
+          "label": "Archive - MediaFire",
+          "provider": "MediaFire",
+          "format": "rar",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreDiscoverTitleId": true
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JL6HSOQMO",
+      "title": "The Flintstones in Viva Rock Vegas",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://dlpsgame.com/wp-content/uploads/2024/10/3.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/ga0e41ibbdzgajg/UP9000-SLES50259_00-SLES502590000001-A0100-V0100.pkg/file",
+          "filename": "UP9000-SLES50259_00-SLES502590000001-A0100-V0100.pkg",
+          "sizeBytes": 438829056,
+          "version": "1.00",
+          "label": "Game v1.00 - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "SLES50259"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JL7QNUMJ2",
+      "title": "Touge Max 2",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://dlpsgame.com/wp-content/uploads/2024/11/6.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/sqs32a41a5fxnkt/Touge+Max+2.pkg/file",
+          "filename": "Touge Max 2.pkg",
+          "sizeBytes": 542769152,
+          "label": "Game - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "SLPS01574"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JL6Q57RWP",
+      "title": "Touge Max G",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://dlpsgame.com/wp-content/uploads/2024/11/7.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/mq1wgimhxuahsre/Touge+Max+G.pkg/file",
+          "filename": "Touge Max G.pkg",
+          "sizeBytes": 153550848,
+          "label": "Game - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "SLPS02361"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "JLBYFXEH8",
+      "title": "Toyota Netz Racing",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://dlpsgame.com/wp-content/uploads/2024/11/2-5.jpg"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/wlxwd1otl900k9z/Toyota+Netz+Racing+.pkg/file",
+          "filename": "Toyota Netz Racing .pkg",
+          "sizeBytes": 219938816,
+          "label": "Game - MediaFire",
+          "provider": "MediaFire",
+          "format": "pkg",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "SLPM80429"
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
+    {
+      "id": "CUSA18354",
+      "title": "Yet Another Zombie Defense HD",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1914/WLJycKW8kM0r1Tvlkmev0LIr.png?w=384&thumb=false"
+      },
+      "releases": [
+        {
+          "url": "https://www.mediafire.com/file/e7xqckay6gztnpy/hako-unlimited-yet.another.zombie.defense.hd.ps4.rar",
+          "filename": "hako-unlimited-yet.another.zombie.defense.hd.ps4.rar",
+          "sizeBytes": 279149219,
+          "label": "Archive - MediaFire",
+          "provider": "MediaFire",
+          "format": "rar",
+          "category": "game",
+          "requiresBrowser": false,
+          "phstoreDiscoverTitleId": true
+        }
+      ],
+      "addedAt": "2026-11-14",
+      "about": [
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+      ]
+    },
     {
       "id": "PH_FC27_BASE",
       "title": "FC27 · 1 · Ana oyun",
       "platform": "ps4",
       "releaseDate": "2026-11-13",
-      "genres": ["Football", "Sport"],
+      "genres": [
+        "Football",
+        "Sport"
+      ],
       "art": {
         "cover": "https://i.hizliresim.com/btk9u8p8.png",
         "hero": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/fc27hero.png"
@@ -36,7 +1460,10 @@
       "title": "FC27 · 2 · Unlocker",
       "platform": "ps4",
       "releaseDate": "2026-11-13",
-      "genres": ["Football", "Sport"],
+      "genres": [
+        "Football",
+        "Sport"
+      ],
       "art": {
         "cover": "https://i.hizliresim.com/btk9u8p8.png",
         "hero": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/fc27hero.png"
@@ -65,7 +1492,10 @@
       "title": "FC27 · 3 · Güncelleme",
       "platform": "ps4",
       "releaseDate": "2026-11-13",
-      "genres": ["Football", "Sport"],
+      "genres": [
+        "Football",
+        "Sport"
+      ],
       "art": {
         "cover": "https://i.hizliresim.com/btk9u8p8.png",
         "hero": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/fc27hero.png"
@@ -1450,41 +2880,6 @@
       ]
     },
     {
-      "id": "CUSA15010",
-      "title": "Call of Duty®: Black Ops Cold War",
-      "platform": "ps4",
-      "genres": [
-        "Action"
-      ],
-      "art": {
-        "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1985810/library_600x900.jpg",
-        "coverFallbacks": [
-          "https://image.api.playstation.com/vulcan/ap/rnd/202112/0618/cFLNC3xYfEdDl7D1Wvu4MVb1.png?w=384&thumb=false",
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA15010.png",
-          "https://cover.spectrumlibrary.online/COVER/PPSA01628.png",
-          "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA15010.png"
-        ],
-        "tint": "#83756d",
-        "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1985810/library_hero.jpg"
-      },
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Call%20of%20Duty%20Black%20Ops%20Cold%20War%20-%20[US]%20[EN]%20[1.41].pkg",
-          "label": "Call of Duty Black Ops Cold War - [US] [EN] [1.41].pkg",
-          "filename": "Call of Duty Black Ops Cold War - [US] [EN] [1.41].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 156407693312,
-          "version": "01.41",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA15010"
-        }
-      ],
-      "developer": "Treyarch",
-      "publisher": "Activision",
-      "recommendations": 0
-    },
-    {
       "id": "ULUS10218",
       "title": "Call of Duty : Roads to Victory™",
       "platform": "ps4",
@@ -1504,38 +2899,6 @@
           "phstoreExpectedTitleId": "ULUS10218"
         }
       ]
-    },
-    {
-      "id": "CUSA05969",
-      "title": "Call of Duty®: WWII",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA05969.png",
-        "tint": "#25241f",
-        "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/476600/page_bg_raw.jpg?t=1780963893",
-        "coverFallbacks": [
-          "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA05969.png"
-        ]
-      },
-      "genres": [
-        "Action"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Call%20of%20Duty%20WWII%20-%20[US]%20[EN]%20[1.25].pkg",
-          "label": "Call of Duty WWII - [US] [EN] [1.25].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 96102711296,
-          "version": "01.25",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA05969",
-          "filename": "Call of Duty WWII - [US] [EN] [1.25].pkg"
-        }
-      ],
-      "developer": "Sledgehammer Games, Raven Software",
-      "publisher": "Activision",
-      "recommendations": 0
     },
     {
       "id": "ULUS10134",
@@ -1685,39 +3048,6 @@
       ]
     },
     {
-      "id": "CUSA11302",
-      "title": "Celeste",
-      "platform": "ps4",
-      "genres": [
-        "Action"
-      ],
-      "art": {
-        "cover": "https://image.api.playstation.com/cdn/UP2120/CUSA11302_00/qHx7zoFGNn6BUHUOk2jSfBck2Zzbjulw.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA11302.png",
-          "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA11302.png"
-        ],
-        "tint": "#676361",
-        "hero": "https://image.api.playstation.com/cdn/UP2120/CUSA11302_00/hgqlI1LTcsd6zuL7YWVLQ8d00jkBmtCg.jpg?w=1920&thumb=false"
-      },
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Celeste%20-%20[US]%20[EN]%20[1.05].pkg",
-          "label": "Celeste - [US] [EN] [1.05].pkg",
-          "filename": "Celeste - [US] [EN] [1.05].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 1424752640,
-          "version": "01.05",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA11302"
-        }
-      ],
-      "publisher": "Maddy Makes Games Inc.",
-      "releaseDate": "2018-01-25",
-      "recommendations": 0
-    },
-    {
       "id": "ULUS10267",
       "title": "chameleon",
       "platform": "ps4",
@@ -1758,74 +3088,6 @@
           "phstoreExpectedTitleId": "ULUS10335"
         }
       ]
-    },
-    {
-      "id": "CUSA06580",
-      "title": "Chess Ultra",
-      "platform": "ps4",
-      "genres": [
-        "Family",
-        "Simulation",
-        "Strategy"
-      ],
-      "art": {
-        "cover": "https://image.api.playstation.com/cdn/UP2070/CUSA06580_00/FYWaq5AoNWIuWsafuGax1eQd0AwjcriQ.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA06580.png",
-          "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA06580.png"
-        ],
-        "tint": "#3b3225",
-        "hero": "https://image.api.playstation.com/cdn/UP2070/CUSA06580_00/FRNpisLBRFjYRLjyH6WNbYI4lDwY0bEL.jpg?w=1920&thumb=false"
-      },
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Chess%20Ultra%20-%20[US]%20[EN]%20[1.04].pkg",
-          "label": "Chess Ultra - [US] [EN] [1.04].pkg",
-          "filename": "Chess Ultra - [US] [EN] [1.04].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 2386165760,
-          "version": "01.04",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA06580"
-        }
-      ],
-      "publisher": "Ripstone LTD",
-      "releaseDate": "2017-06-20",
-      "recommendations": 0
-    },
-    {
-      "id": "CUSA00339",
-      "title": "Child of Light",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/cdn/UP0001/CUSA00339_00/O3Q4ccu7xZsW5tlkfzPsXa0rCvO9Etpt.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA00339.png",
-          "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00339.png"
-        ],
-        "tint": "#9faab4",
-        "hero": "https://image.api.playstation.com/cdn/UP0001/CUSA00339_00/kxkuJPPaKVBaolhTm9RJxIZW28FYVeqF.jpg?w=1920&thumb=false"
-      },
-      "genres": [
-        "Role Playing Games"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Child%20of%20Light%20-%20[US]%20[EN]%20[1.02].pkg",
-          "label": "Child of Light - [US] [EN] [1.02].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 2276917248,
-          "version": "01.02",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA00339",
-          "filename": "Child of Light - [US] [EN] [1.02].pkg"
-        }
-      ],
-      "publisher": "Ubisoft",
-      "releaseDate": "2014-04-29",
-      "recommendations": 0
     },
     {
       "id": "ULUS10216",
@@ -2122,40 +3384,6 @@
       ]
     },
     {
-      "id": "CUSA13795",
-      "title": "Crash™ Team Racing Nitro-Fueled",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/cdn/UP0002/CUSA13795_00/NArMrNBkoQP6JFiyxllNL4F3YzEj52qQ.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA13795.png",
-          "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA13795.png"
-        ],
-        "tint": "#6c9393",
-        "hero": "https://image.api.playstation.com/cdn/UP0002/CUSA13795_00/oVGOZm8Z0yGLk5ilRUxU8oaUegTFi7fG.jpg?w=1920&thumb=false"
-      },
-      "genres": [
-        "Driving/Racing",
-        "Action"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Crash%20Team%20Racing%20Nitro-Fueled%20-%20[US]%20[EN]%20[1.21].pkg",
-          "label": "Crash Team Racing Nitro-Fueled - [US] [EN] [1.21].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 21934243840,
-          "version": "01.21",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA13795",
-          "filename": "Crash Team Racing Nitro-Fueled - [US] [EN] [1.21].pkg"
-        }
-      ],
-      "publisher": "Activision",
-      "releaseDate": "2019-06-20",
-      "recommendations": 0
-    },
-    {
       "id": "ULUS10273",
       "title": "Crazy Taxi: Fare Wars",
       "platform": "ps4",
@@ -2238,39 +3466,6 @@
           "phstoreExpectedTitleId": "ULUS10336"
         }
       ]
-    },
-    {
-      "id": "CUSA45566",
-      "title": "Crow Country",
-      "platform": "ps4",
-      "genres": [
-        "Horror"
-      ],
-      "art": {
-        "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1119/4b2bc50a0bb1fa4a27273cd583b59e922de33a3d9da23a59.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA45566.png",
-          "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA45566.png"
-        ],
-        "tint": "#272212",
-        "hero": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1119/d7285c1cdbcc10d9d8c4afa0d47cad294b89f4f096e38302.png?w=1920&thumb=false"
-      },
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Crow%20Country%20-%20[EU]%20[EN]%20[1.00].pkg",
-          "label": "Crow Country - [EU] [EN] [1.00].pkg",
-          "filename": "Crow Country - [EU] [EN] [1.00].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 799801344,
-          "version": "01.00",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA45566"
-        }
-      ],
-      "publisher": "SFB Games Limited",
-      "releaseDate": "2024-10-22",
-      "recommendations": 0
     },
     {
       "id": "CUSA02644",
@@ -15431,1351 +16626,6 @@
       ]
     },
     {
-      "id": "CUSA04730",
-      "title": "Call of Cthulhu",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/vulcan/img/cfn/11307tHc-g--IwELVG7Uxel9rhrIa_NTF2OocFnmgU7ItLCENo-O6_mUcp7MY1wIeJ0Hk-VxgR_0PJ3vBvZtUInZhAIyWOgc.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA04730.png"
-        ],
-        "tint": "#697e76",
-        "hero": "https://image.api.playstation.com/cdn/UP4133/CUSA04730_00/fq4EJyIeA9JBoNSiYlN98fliLYwcgpL0.jpg?w=1920&thumb=false"
-      },
-      "genres": [
-        "Adventure",
-        "Role Playing Games"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Call%20of%20Cthulhu%20-%20%5BUS%5D%20%5BEN%5D%20%5B1.07%5D.pkg",
-          "label": "Call of Cthulhu - [US] [EN] [1.07].pkg",
-          "filename": "Call of Cthulhu - [US] [EN] [1.07].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 10516824064,
-          "version": "01.07",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA04730"
-        }
-      ],
-      "publisher": "Focus Entertainment",
-      "releaseDate": "2018-10-30"
-    },
-    {
-      "id": "CUSA23827",
-      "title": "Call of Duty® Black Ops 6",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA23827.png",
-        "tint": "#373024",
-        "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4384550/05f6d50c3c7c25172255d4374d5bd57fee2851c0/page_bg_raw.jpg?t=1783699904"
-      },
-      "genres": [
-        "Action"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Call%20of%20Duty%20Black%20Ops%206%20-%20%5BUS%5D%20%5BEN%5D%20%5B1.58%5D%20%5BCP%5D.pkg",
-          "label": "Call of Duty Black Ops 6 - [US] [EN] [1.58] [CP].pkg",
-          "filename": "Call of Duty Black Ops 6 - [US] [EN] [1.58] [CP].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 44044189696,
-          "version": "01.58",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA23827"
-        }
-      ],
-      "publisher": "Activision",
-      "developer": "Treyarch, Raven Software, Beenox, High Moon Studios, Activision Shanghai, Sledgehammer Games, Infinity Ward, Demonware"
-    },
-    {
-      "id": "CUSA00018",
-      "title": "Call of Duty® Ghosts",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA00018.png",
-        "tint": "#37383b"
-      },
-      "genres": [
-        "Action"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Call%20of%20Duty%20Ghosts%20-%20%5BUS%5D%20%5BEN%5D%20%5B1.21%5D.pkg",
-          "label": "Call of Duty Ghosts - [US] [EN] [1.21].pkg",
-          "filename": "Call of Duty Ghosts - [US] [EN] [1.21].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 45208698880,
-          "version": "01.21",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA00018"
-        }
-      ],
-      "publisher": "Activision",
-      "developer": "Infinity Ward"
-    },
-    {
-      "id": "CUSA00803",
-      "title": "Call of Duty®: Advanced Warfare",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA00803.png",
-        "tint": "#1d1809"
-      },
-      "genres": [
-        "Action"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Call%20of%20Duty%20Advanced%20Warfare%20-%20%5BUS%5D%20%5BEN%5D%20%5B1.24%5D.pkg",
-          "label": "Call of Duty Advanced Warfare - [US] [EN] [1.24].pkg",
-          "filename": "Call of Duty Advanced Warfare - [US] [EN] [1.24].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 66965143552,
-          "version": "01.24",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA00803"
-        }
-      ],
-      "publisher": "Activision",
-      "developer": "Sledgehammer Games, Raven Software"
-    },
-    {
-      "id": "CUSA11100",
-      "title": "Call of Duty®: Black Ops 4",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA11100.png",
-        "tint": "#6c3518"
-      },
-      "genres": [],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Call%20of%20Duty%20Black%20Ops%204%20-%20%5BUS%5D%20%5BEN%5D%20%5B1.26%5D.pkg",
-          "label": "Call of Duty Black Ops 4 - [US] [EN] [1.26].pkg",
-          "filename": "Call of Duty Black Ops 4 - [US] [EN] [1.26].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 105904996352,
-          "version": "01.26",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA11100"
-        }
-      ]
-    },
-    {
-      "id": "CUSA02290",
-      "title": "Call of Duty®: Black Ops III",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA02290.png",
-        "tint": "#742e00",
-        "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/page_bg_raw.jpg?t=1780963650"
-      },
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Call%20of%20Duty%20Black%20Ops%20III%20-%20%5BUS%5D%20%5BEN%5D%20%5B1.33%5D.pkg",
-          "label": "Call of Duty Black Ops III - [US] [EN] [1.33].pkg",
-          "filename": "Call of Duty Black Ops III - [US] [EN] [1.33].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 102446333952,
-          "version": "01.33",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA02290"
-        }
-      ],
-      "publisher": "Activision, Aspyr (Mac)",
-      "developer": "Treyarch, Aspyr (Mac)"
-    },
-    {
-      "id": "CUSA04762",
-      "title": "Call of Duty®: Infinite Warfare",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/cdn/UP0002/CUSA04762_00/LHc8qTz6JmLL46EdNWYEvqZEsIEYCbhy.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA04762.png"
-        ],
-        "tint": "#777b6e",
-        "hero": "https://image.api.playstation.com/cdn/UP0002/CUSA04762_00/EMKXp8pwBsbi07IdeXIMH70cg7GW6OuU.JPG?w=1920&thumb=false"
-      },
-      "genres": [
-        "Shooter"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Call%20of%20Duty%20Infinite%20Warfare%20-%20%5BUS%5D%20%5BEN%5D%20%5B1.25%5D.pkg",
-          "label": "Call of Duty Infinite Warfare - [US] [EN] [1.25].pkg",
-          "filename": "Call of Duty Infinite Warfare - [US] [EN] [1.25].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 92160131072,
-          "version": "01.25",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA04762"
-        }
-      ],
-      "publisher": "Activision",
-      "releaseDate": "2016-11-04"
-    },
-    {
-      "id": "CUSA34029",
-      "title": "Call of Duty®: Modern Warfare II",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA34029.png",
-        "tint": "#5e6343",
-        "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595230/fa59c69dadac871f924c44e2fe553038a7a5d136/page_bg_raw.jpg?t=1778886532"
-      },
-      "genres": [
-        "Action"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Call%20of%20Duty%20Modern%20Warfare%20II%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.08%5D.pkg",
-          "label": "Call of Duty Modern Warfare II - [EU] [EN] [1.08].pkg",
-          "filename": "Call of Duty Modern Warfare II - [EU] [EN] [1.08].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 59535523840,
-          "version": "01.08",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA34029"
-        }
-      ],
-      "publisher": "Activision",
-      "developer": "Infinity Ward, Raven Software, Beenox, Treyarch, High Moon Studios, Sledgehammer Games, Demonware, Toys for Bob"
-    },
-    {
-      "id": "CUSA34083",
-      "title": "Call of Duty®: Modern Warfare III",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA34083.png",
-        "tint": "#781c19"
-      },
-      "genres": [
-        "Action"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Call%20of%20Duty%20Modern%20Warfare%20III%20-%20%5BUS%5D%20%5BEN%5D%20%5B1.33%5D.pkg",
-          "label": "Call of Duty Modern Warfare III - [US] [EN] [1.33].pkg",
-          "filename": "Call of Duty Modern Warfare III - [US] [EN] [1.33].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 65192722432,
-          "version": "01.33",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA34083"
-        }
-      ],
-      "publisher": "Activision",
-      "developer": "Sledgehammer Games, Treyarch, Infinity Ward, Beenox, Raven Software, High Moon Studios, Demonware"
-    },
-    {
-      "id": "CUSA08829",
-      "title": "Call of Duty®: Modern Warfare®",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/cdn/UP0002/CUSA08829_00/xmKUnAOenEAKspB3FlOg80aQZfEoCYcE.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA08829.png"
-        ],
-        "tint": "#686361",
-        "hero": "https://image.api.playstation.com/vulcan/img/rnd/202010/2320/j1M0c6She3Jp8FGEEahzhPr5.png?w=1920&thumb=false"
-      },
-      "genres": [
-        "Shooter"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Call%20of%20Duty%20Modern%20Warfare%20-%20%5BUS%5D%20%5BEN%5D%20%5B1.67%5D.pkg",
-          "label": "Call of Duty Modern Warfare - [US] [EN] [1.67].pkg",
-          "filename": "Call of Duty Modern Warfare - [US] [EN] [1.67].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 149985886208,
-          "version": "01.67",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA08829"
-        }
-      ],
-      "publisher": "Activision",
-      "releaseDate": "2019-10-24"
-    },
-    {
-      "id": "CUSA03522",
-      "title": "Call of Duty®: Modern Warfare® (2007)",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/cdn/UP0002/CUSA03522_00/t7SHaSjuUXFZ3VHl6U4FuSFrDMtkOIyP.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA03522.png"
-        ],
-        "tint": "#79856e",
-        "hero": "https://image.api.playstation.com/cdn/UP0002/CUSA03522_00/dZKT5X7Q3pd8RJwyL1PxIy5yxoW8qnKy.jpg?w=1920&thumb=false"
-      },
-      "genres": [
-        "Shooter"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Call%20of%20Duty%20Modern%20Warfare%20%282007%29%20-%20%5BUS%5D%20%5BEN%5D%20%5B1.00%5D.pkg",
-          "label": "Call of Duty Modern Warfare (2007) - [US] [EN] [1.00].pkg",
-          "filename": "Call of Duty Modern Warfare (2007) - [US] [EN] [1.00].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 38878969856,
-          "version": "01.00",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA03522"
-        }
-      ],
-      "publisher": "Activision",
-      "releaseDate": "2016-10-05"
-    },
-    {
-      "id": "CUSA07904",
-      "title": "Call of Duty®: Modern Warfare® 2 (2009)",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA07904.png",
-        "tint": "#9e8555"
-      },
-      "genres": [
-        "Action"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Call%20of%20Duty%20Modern%20Warfare%202%20%282009%29%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.00%5D.pkg",
-          "label": "Call of Duty Modern Warfare 2 (2009) - [EU] [EN] [1.00].pkg",
-          "filename": "Call of Duty Modern Warfare 2 (2009) - [EU] [EN] [1.00].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 46195736576,
-          "version": "01.00",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA07904"
-        }
-      ],
-      "publisher": "Activision",
-      "developer": "Infinity Ward"
-    },
-    {
-      "id": "CUSA24041",
-      "title": "Call of Duty®: Vanguard",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1985820/library_600x900.jpg",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA24041.png",
-          "https://cover.spectrumlibrary.online/COVER/PPSA01687.png"
-        ],
-        "tint": "#7b6c60",
-        "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1985820/library_hero.jpg"
-      },
-      "genres": [
-        "Action"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Call%20of%20Duty%20Vanguard%20-%20%5BUS%5D%20%5BEN%5D%20%5B1.26%5D.pkg",
-          "label": "Call of Duty Vanguard - [US] [EN] [1.26].pkg",
-          "filename": "Call of Duty Vanguard - [US] [EN] [1.26].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 64232161280,
-          "version": "01.26",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA24041"
-        }
-      ],
-      "publisher": "Activision",
-      "developer": "Sledgehammer Games"
-    },
-    {
-      "id": "CUSA23370",
-      "title": "Call Of The Sea",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1014/349a0153e57b5c614e3a72ef3caa9e82de422d194dc92d1f.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://image.api.playstation.com/vulcan/ap/rnd/202104/1314/55il6neBPVpJHr55Yqu4cN1Y.png?w=384&thumb=false",
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA23370.png"
-        ],
-        "tint": "#443b28",
-        "hero": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2912/5ek2rHw1RB0sjLbNg3eaqLU1.png?w=1920&thumb=false"
-      },
-      "genres": [
-        "Puzzle",
-        "Adventure"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Call%20Of%20The%20Sea%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.01%5D.pkg",
-          "label": "Call Of The Sea - [EU] [EN] [1.01].pkg",
-          "filename": "Call Of The Sea - [EU] [EN] [1.01].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 5634523136,
-          "version": "01.01",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA23370"
-        }
-      ],
-      "publisher": "RAW FURY",
-      "releaseDate": "2021-05-11"
-    },
-    {
-      "id": "CUSA27770",
-      "title": "Carrion",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202107/0620/NH2ucTdNQgwnaACWmxo4iAPF.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA27770.png"
-        ],
-        "tint": "#431e2c",
-        "hero": "https://image.api.playstation.com/vulcan/ap/rnd/202107/0800/rJE5OUnACX4Y6LxdgTQoCd8d.png?w=1920&thumb=false"
-      },
-      "genres": [
-        "Action"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Carrion%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.04%5D.pkg",
-          "label": "Carrion - [EU] [EN] [1.04].pkg",
-          "filename": "Carrion - [EU] [EN] [1.04].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 251002880,
-          "version": "01.04",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA27770"
-        }
-      ],
-      "publisher": "Devolver Digital",
-      "releaseDate": "2021-10-22"
-    },
-    {
-      "id": "CUSA23985",
-      "title": "Carto",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/2021/jxsZg6g46ux5d3HNj2v7SF0q.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA23985.png"
-        ],
-        "tint": "#729ea5",
-        "hero": "https://image.api.playstation.com/vulcan/ap/rnd/202009/3018/HXKVV84YaNT8wFC6pIcGu0r0.png?w=1920&thumb=false"
-      },
-      "genres": [
-        "Puzzle",
-        "Adventure"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Carto%20-%20%5BUS%5D%20%5BEN%5D%20%5B1.04%5D.pkg",
-          "label": "Carto - [US] [EN] [1.04].pkg",
-          "filename": "Carto - [US] [EN] [1.04].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 605487104,
-          "version": "01.04",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA23985"
-        }
-      ],
-      "publisher": "Good Games Group, Inc.",
-      "releaseDate": "2020-10-27"
-    },
-    {
-      "id": "CUSA14836",
-      "title": "Catherine",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/cdn/UP2611/CUSA14836_00/Ibf5t8Fwi9IgemaZbVjD6z6724XuNHK8.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA14836.png"
-        ],
-        "tint": "#a1777b",
-        "hero": "https://image.api.playstation.com/cdn/UP2611/CUSA14836_00/vwBWM2cSByMTN05ob5pbtbVTdx8W7mW1.jpg?w=1920&thumb=false"
-      },
-      "genres": [
-        "Action",
-        "Adventure",
-        "Puzzle"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Catherine%20-%20%5BUS%5D%20%5BEN%5D%20%5B1.00%5D.pkg",
-          "label": "Catherine - [US] [EN] [1.00].pkg",
-          "filename": "Catherine - [US] [EN] [1.00].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 13124829184,
-          "version": "01.00",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA14836"
-        }
-      ],
-      "publisher": "SEGA of America, Inc.",
-      "releaseDate": "2019-09-03"
-    },
-    {
-      "id": "CUSA29547",
-      "title": "Chained Echoes",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1611/6O2jAYhTUqhcJYYJeNex5oKJ.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA29547.png"
-        ],
-        "tint": "#6e8080",
-        "hero": "https://image.api.playstation.com/vulcan/ap/rnd/202212/0609/7DcKSAjIGtyqQy6koIoWDFyW.png?w=1920&thumb=false"
-      },
-      "genres": [
-        "Role Playing Games"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Chained%20Echoes%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.13%5D.pkg",
-          "label": "Chained Echoes - [EU] [EN] [1.13].pkg",
-          "filename": "Chained Echoes - [EU] [EN] [1.13].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 811139072,
-          "version": "01.13",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA29547"
-        }
-      ],
-      "publisher": "Deck13 Interactive GmbH",
-      "developer": "Umami Tiger (Matthias Linda)",
-      "releaseDate": "2022-12-08"
-    },
-    {
-      "id": "CUSA28037",
-      "title": "Chernobylite",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202407/2119/150d779c1b72ec85eeb0bc7ab32a58044f9b44d36e603260.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA28037.png"
-        ],
-        "tint": "#202b27",
-        "hero": "https://image.api.playstation.com/vulcan/ap/rnd/202407/2211/fc73e8ca854d2de7a0ffdcf453a5cd396e2bc0beab2d5c8e.png?w=1920&thumb=false"
-      },
-      "genres": [
-        "Horror"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Chernobylite%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.12%5D.pkg",
-          "label": "Chernobylite - [EU] [EN] [1.12].pkg",
-          "filename": "Chernobylite - [EU] [EN] [1.12].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 11401953280,
-          "version": "01.12",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA28037"
-        }
-      ],
-      "publisher": "The Farm 51 Group S.A.",
-      "releaseDate": "2021-09-28"
-    },
-    {
-      "id": "CUSA20204",
-      "title": "Chicken Police",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1507/AoGvh8gtDY9a5oODZDTarCSD.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA20204.png"
-        ],
-        "tint": "#32302f",
-        "hero": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1507/gkLF4EQlPjaxxmTmL1ZwPptT.png?w=1920&thumb=false"
-      },
-      "genres": [],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Chicken%20Police%20-%20%5BUS%5D%20%5BEN%5D%20%5B1.03%5D.pkg",
-          "label": "Chicken Police - [US] [EN] [1.03].pkg",
-          "filename": "Chicken Police - [US] [EN] [1.03].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 3360423936,
-          "version": "01.03",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA20204"
-        }
-      ],
-      "publisher": "THQ Nordic Mobile GmbH",
-      "releaseDate": "2020-11-05"
-    },
-    {
-      "id": "CUSA12286",
-      "title": "Chimparty™",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA12286.png",
-        "tint": "#8b7873"
-      },
-      "genres": [
-        "Türkçe oyunlar"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Chimparty%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.01%5D.pkg",
-          "label": "Chimparty - [EU] [EN] [1.01].pkg",
-          "filename": "Chimparty - [EU] [EN] [1.01].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 2623602688,
-          "version": "01.01",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA12286"
-        }
-      ],
-      "turkish": true
-    },
-    {
-      "id": "CUSA06548",
-      "title": "Cities: Skylines",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/cdn/UP4139/CUSA06548_00/gWoHu0OZ3sZE0lfIhzTI1eTZyTKpvtma.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA06548.png"
-        ],
-        "tint": "#6e7183",
-        "hero": "https://image.api.playstation.com/vulcan/ap/rnd/202302/1408/df3b8fd32c457baaa03c0c818143ae498356cc3bb52d668c.png?w=1920&thumb=false"
-      },
-      "genres": [
-        "Simulation",
-        "Simulator"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Cities%20Skylines%20-%20%5BUS%5D%20%5BEN%5D%20%5B16.02%5D.pkg",
-          "label": "Cities Skylines - [US] [EN] [16.02].pkg",
-          "filename": "Cities Skylines - [US] [EN] [16.02].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 7613972480,
-          "version": "06.02",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA06548"
-        }
-      ],
-      "publisher": "Paradox Interactive",
-      "releaseDate": "2017-08-15"
-    },
-    {
-      "id": "CUSA40576",
-      "title": "Citizen Sleeper",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202303/1609/e3278cdeab2b05d0b0ff86c29c14f8b48ea0ada641ca1595.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA40576.png"
-        ],
-        "tint": "#a1344f",
-        "hero": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2705/bd04f8b4b3b8b5779fb27244c014e18bfaa3e561e976a52b.png?w=1920&thumb=false"
-      },
-      "genres": [
-        "Role Playing Games"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Citizen%20Sleeper%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.05%5D.pkg",
-          "label": "Citizen Sleeper - [EU] [EN] [1.05].pkg",
-          "filename": "Citizen Sleeper - [EU] [EN] [1.05].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 503447552,
-          "version": "01.05",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA40576"
-        }
-      ],
-      "publisher": "SURPRISE ATTACK DBA FELLOW TRAVELLER GAMES",
-      "releaseDate": "2023-03-31"
-    },
-    {
-      "id": "CUSA34963",
-      "title": "Cocoon",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0320/edce2d3e20cb874ad82bbf54f00c9e2a3adf7f5bf77665ca.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA34963.png"
-        ],
-        "tint": "#34342f",
-        "hero": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0320/fed12c02b88caaa381a86621f27bf86eb167b50ebcf70866.png?w=1920&thumb=false"
-      },
-      "genres": [
-        "Türkçe oyunlar",
-        "Adventure"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Cocoon%20-%20%5BUS%5D%20%5BEN%5D%20%5B1.02%5D.pkg",
-          "label": "Cocoon - [US] [EN] [1.02].pkg",
-          "filename": "Cocoon - [US] [EN] [1.02].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 1515716608,
-          "version": "01.02",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA34963"
-        }
-      ],
-      "publisher": "Annapurna Interactive",
-      "releaseDate": "2023-09-29",
-      "turkish": true
-    },
-    {
-      "id": "CUSA10410",
-      "title": "CODE VEIN",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/vulcan/img/cfn/11307ddV-pWycIHQcqD63yAxAoKAJIqKmdhMTd0WH0a0NjzojY-mnKc0V3zz61d4PoTgncPqkHOSgwOs1ktRnVdO8_YETFWE.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA10410.png"
-        ],
-        "tint": "#574d42",
-        "hero": "https://image.api.playstation.com/vulcan/img/cfn/11307rZgYWSoQzTwU8jqhORd-e-wOCv1vaZ5pqC68SGbZWmAtPUqfeJvo4OcFJqVMWVueWypkQc7J9YuyFKQG6yq_IAaJoLx.jpg?w=1920&thumb=false"
-      },
-      "genres": [
-        "Role Playing Games"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/CODE%20VEIN%20-%20%5BUS%5D%20%5BEN%5D%20%5B1.53%5D.pkg",
-          "label": "CODE VEIN - [US] [EN] [1.53].pkg",
-          "filename": "CODE VEIN - [US] [EN] [1.53].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 30987845632,
-          "version": "01.53",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA10410"
-        }
-      ],
-      "publisher": "Bandai Namco Entertainment America Inc.",
-      "releaseDate": "2019-09-27"
-    },
-    {
-      "id": "CUSA32951",
-      "title": "Coffee Talk Episode 2: Hibiscus ＆ Butterfly",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2802/7e8081b6fe6c07c724b389099ffa21072f2ef814c890190a.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA32951.png"
-        ],
-        "tint": "#5d5b79",
-        "hero": "https://image.api.playstation.com/vulcan/ap/rnd/202303/0119/bc522726fc9572f8c7e46724f4f02e8436ca651b79de9432.png?w=1920&thumb=false"
-      },
-      "genres": [
-        "Türkçe oyunlar",
-        "Casual",
-        "Adventure"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Coffee%20Talk%20Episode%202%20Hibiscus%20%26%20Butterfly%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.03%5D.pkg",
-          "label": "Coffee Talk Episode 2 Hibiscus & Butterfly - [EU] [EN] [1.03].pkg",
-          "filename": "Coffee Talk Episode 2 Hibiscus & Butterfly - [EU] [EN] [1.03].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 447086592,
-          "version": "01.03",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA32951"
-        }
-      ],
-      "publisher": "Chorus Worldwide Games",
-      "releaseDate": "2023-04-20",
-      "turkish": true
-    },
-    {
-      "id": "CUSA18112",
-      "title": "CoffeeTalk",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/vulcan/img/rnd/202104/0510/kqFKzYXgYrUH0Ytg9ehjazY9.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA18112.png"
-        ],
-        "tint": "#5c3a3e",
-        "hero": "https://image.api.playstation.com/vulcan/ap/rnd/202105/0417/PkC62jhO3n3m4nt4V6Ayue4l.png?w=1920&thumb=false"
-      },
-      "genres": [
-        "Türkçe oyunlar",
-        "Adventure"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/CoffeeTalk%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.07%5D.pkg",
-          "label": "CoffeeTalk - [EU] [EN] [1.07].pkg",
-          "filename": "CoffeeTalk - [EU] [EN] [1.07].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 335806464,
-          "version": "01.07",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA18112"
-        }
-      ],
-      "publisher": "Chorus Worldwide Games",
-      "releaseDate": "2023-10-31",
-      "turkish": true
-    },
-    {
-      "id": "CUSA10486",
-      "title": "Conan Exiles",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1607/b8430a91c8d71ec52a06eebd8a9ea1adc0aec231de695b21.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA10486.png"
-        ],
-        "tint": "#747c7a",
-        "hero": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1607/825ac7f316e18b0464fa62f50c3ac3f7400ff2278b586cb2.png?w=1920&thumb=false"
-      },
-      "genres": [
-        "Adventure",
-        "Action"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Conan%20Exiles%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.80%5D.pkg",
-          "label": "Conan Exiles - [EU] [EN] [1.80].pkg",
-          "filename": "Conan Exiles - [EU] [EN] [1.80].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 95708708864,
-          "version": "01.80",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA10486"
-        }
-      ],
-      "publisher": "Funcom Oslo AS",
-      "releaseDate": "2018-05-08"
-    },
-    {
-      "id": "CUSA11834",
-      "title": "Concrete Genie",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/vulcan/img/rnd/202011/0923/lbjNLN1pA9vZiHjECrt3Gnc7.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA11834.png"
-        ],
-        "tint": "#615c5f",
-        "hero": "https://image.api.playstation.com/vulcan/img/rnd/202011/0923/bL1KVGey3qgR8M8L130cHJ5m.png?w=1920&thumb=false"
-      },
-      "genres": [
-        "Türkçe oyunlar",
-        "Action",
-        "Adventure"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Concrete%20Genie%20-%20%5BUS%5D%20%5BEN%5D%20%5B1.07%5D.pkg",
-          "label": "Concrete Genie - [US] [EN] [1.07].pkg",
-          "filename": "Concrete Genie - [US] [EN] [1.07].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 8818393088,
-          "version": "01.07",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA11834"
-        }
-      ],
-      "publisher": "Sony Interactive Entertainment",
-      "releaseDate": "2019-10-08",
-      "turkish": true
-    },
-    {
-      "id": "CUSA11454",
-      "title": "Control",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/vulcan/img/rnd/202009/1409/LOjeGQPXg7C1yoMmhsKYOwfa.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://image.api.playstation.com/vulcan/img/rnd/202102/0111/feFiOE59b8t3dKE25z85OJLV.png?w=384&thumb=false",
-          "https://image.api.playstation.com/vulcan/img/rnd/202101/2812/JW0xMHzxQjIck0saWq0ycDyI.png?w=384&thumb=false",
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA11454.png"
-        ],
-        "tint": "#2a1415",
-        "hero": "https://image.api.playstation.com/vulcan/ap/rnd/202008/2111/oLL2VV76OGQRJck02nG8JaXy.png?w=1920&thumb=false"
-      },
-      "genres": [
-        "Action"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Control%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.12%5D.pkg",
-          "label": "Control - [EU] [EN] [1.12].pkg",
-          "filename": "Control - [EU] [EN] [1.12].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 37168283648,
-          "version": "01.12",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA11454"
-        }
-      ],
-      "publisher": "REMEDY ENTERTAINMENT LTD.",
-      "releaseDate": "2021-02-02"
-    },
-    {
-      "id": "CUSA23970",
-      "title": "Cook, Serve, Delicious! 3?!",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202008/2801/l3HynoqSlteVSXYVjpDXGGRk.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA23970.png"
-        ],
-        "tint": "#a17f78",
-        "hero": "https://image.api.playstation.com/vulcan/ap/rnd/202404/2222/648dc72ea8fcad49fa31027e09fe8de880d4175a3cd356e1.png?w=1920&thumb=false"
-      },
-      "genres": [
-        "Strategy",
-        "Simulation",
-        "Action"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Cook%2C%20Serve%2C%20Delicious%21%203%20-%20%5BUS%5D%20%5BEN%5D%20%5B1.04%5D.pkg",
-          "label": "Cook, Serve, Delicious! 3 - [US] [EN] [1.04].pkg",
-          "filename": "Cook, Serve, Delicious! 3 - [US] [EN] [1.04].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 1491927040,
-          "version": "01.04",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA23970"
-        }
-      ],
-      "publisher": "VERTIGO GAMING",
-      "releaseDate": "2024-04-25"
-    },
-    {
-      "id": "CUSA07399",
-      "title": "Crash Bandicoot N. Sane Trilogy",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/cdn/UP0002/CUSA07402_00/03ZtrPdjasIxzi8QrzOb2zCIHLMydFbh.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA07399.png"
-        ],
-        "tint": "#696d5f",
-        "hero": "https://image.api.playstation.com/cdn/UP0002/CUSA07402_00/j95OOcXv9EX4QOublRTfoOZtywFwkI6w.jpg?w=1920&thumb=false"
-      },
-      "genres": [
-        "Adventure",
-        "Action"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Crash%20Bandicoot%20N.%20Sane%20Trilogy%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.07%5D.pkg",
-          "label": "Crash Bandicoot N. Sane Trilogy - [EU] [EN] [1.07].pkg",
-          "filename": "Crash Bandicoot N. Sane Trilogy - [EU] [EN] [1.07].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 23207346176,
-          "version": "01.07",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA07399"
-        }
-      ],
-      "publisher": "Activision",
-      "releaseDate": "2017-06-30"
-    },
-    {
-      "id": "CUSA19035",
-      "title": "Crash Bandicoot™ 4: It's About Time",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/vulcan/img/rnd/202111/1900/LuGrqkBoTqzapnV6xS7UA5i8.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://image.api.playstation.com/vulcan/img/rnd/202111/1823/eJC5Gvrsie9cGJsmHQHMZrWp.png?w=384&thumb=false",
-          "https://cdn.cloudflare.steamstatic.com/steam/apps/1378990/library_600x900.jpg",
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA19035.png"
-        ],
-        "tint": "#6c7683",
-        "hero": "https://image.api.playstation.com/vulcan/img/rnd/202107/1518/yEeyoBt9l3BeFZWcmVK0OVPy.png?w=1920&thumb=false"
-      },
-      "genres": [
-        "Action"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Crash%20Bandicoot%204%20It%27s%20About%20Time%20-%20%5BUS%5D%20%5BEN%5D%20%5B1.05%5D.pkg",
-          "label": "Crash Bandicoot 4 It's About Time - [US] [EN] [1.05].pkg",
-          "filename": "Crash Bandicoot 4 It's About Time - [US] [EN] [1.05].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 22707961856,
-          "version": "01.05",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA19035"
-        }
-      ],
-      "publisher": "Activision",
-      "developer": "Toys for Bob",
-      "releaseDate": "2021-07-21"
-    },
-    {
-      "id": "CUSA18962",
-      "title": "Creature in the Well",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/vulcan/img/cfn/11307we8460TaH6vLKoeubsCLS84TaBdVOxbSRXzryNxX5bggOArpUItQNCDJ6LPH9vP7CNNBHL4axBISg6VUvrqXLkNhVbf.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA18962.png"
-        ],
-        "tint": "#85714d",
-        "hero": "https://image.api.playstation.com/vulcan/img/cfn/11307cloWWm4Rxo5bTPHhhQF0-LpzPPIBtz8oR_RXH9eOFNYRJ9z3zzNQW9h-viMSYQK6H2xI5ktEF77A_FZ_KefxskRN2U2.png?w=1920&thumb=false"
-      },
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fighting"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Creature%20in%20the%20Well%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.01%5D.pkg",
-          "label": "Creature in the Well - [EU] [EN] [1.01].pkg",
-          "filename": "Creature in the Well - [EU] [EN] [1.01].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 847839232,
-          "version": "01.01",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA18962"
-        }
-      ],
-      "publisher": "Flight School Studio",
-      "releaseDate": "2020-03-27"
-    },
-    {
-      "id": "CUSA43293",
-      "title": "Cricket 24",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0813/81ab4b5e5fc8aeba84d3ce3fb7aeede9f00bbab93d9c9c60.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA43293.png"
-        ],
-        "tint": "#4f7fa1",
-        "hero": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2113/2781011cc60486afc2af00e7dd37f43ca814c3d6b0a09ba4.png?w=1920&thumb=false"
-      },
-      "genres": [
-        "Sport"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Cricket%2024%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.30%5D.pkg",
-          "label": "Cricket 24 - [EU] [EN] [1.30].pkg",
-          "filename": "Cricket 24 - [EU] [EN] [1.30].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 53365899264,
-          "version": "01.30",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA43293"
-        }
-      ],
-      "publisher": "NACON SA",
-      "releaseDate": "2023-10-04"
-    },
-    {
-      "id": "CUSA31349",
-      "title": "CRISIS CORE: FINAL FANTASY VII",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA31349.png",
-        "tint": "#6899a9"
-      },
-      "genres": [],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/CRISIS%20CORE%20FINAL%20FANTASY%20VII%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.04%5D.pkg",
-          "label": "CRISIS CORE FINAL FANTASY VII - [EU] [EN] [1.04].pkg",
-          "filename": "CRISIS CORE FINAL FANTASY VII - [EU] [EN] [1.04].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 20221329408,
-          "version": "01.04",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA31349"
-        }
-      ]
-    },
-    {
-      "id": "CUSA10268",
-      "title": "Crossing Souls",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/cdn/UP3643/CUSA10268_00/ia1ITbIu0mmNsGOCg9V0pZv2Ls7uB55h.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA10268.png"
-        ],
-        "tint": "#5b3744",
-        "hero": "https://image.api.playstation.com/cdn/UP3643/CUSA10268_00/mlm0iaEar94AKo96DX6ibukNFXfOUWq7.jpg?w=1920&thumb=false"
-      },
-      "genres": [
-        "Adventure"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Crossing%20Souls%20-%20%5BUS%5D%20%5BEN%5D%20%5B1.05%5D.pkg",
-          "label": "Crossing Souls - [US] [EN] [1.05].pkg",
-          "filename": "Crossing Souls - [US] [EN] [1.05].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 1172701184,
-          "version": "01.05",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA10268"
-        }
-      ],
-      "publisher": "Devolver Digital",
-      "releaseDate": "2018-02-13"
-    },
-    {
-      "id": "CUSA03610",
-      "title": "Crypt of the Necrodancer",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1520/fb20e2e1962c6523cb182ce394471cf9c269a799bd4f11b1.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA03610.png"
-        ],
-        "tint": "#5d3e64",
-        "hero": "https://image.api.playstation.com/vulcan/ap/rnd/202401/2422/0a2bfa5a8c22a81a6c088147de1ad8de0f0d304133c324b8.png?w=1920&thumb=false"
-      },
-      "genres": [
-        "Adventure",
-        "Action",
-        "Music/Rhythm"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Crypt%20of%20the%20Necrodancer%20-%20%5BUS%5D%20%5BEN%5D%20%5B1.05%5D.pkg",
-          "label": "Crypt of the Necrodancer - [US] [EN] [1.05].pkg",
-          "filename": "Crypt of the Necrodancer - [US] [EN] [1.05].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 2762801152,
-          "version": "01.05",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA03610"
-        }
-      ],
-      "publisher": "Brace Yourself Games",
-      "releaseDate": "2016-02-02"
-    },
-    {
-      "id": "CUSA18672",
-      "title": "Crysis2®",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA18672.png",
-        "tint": "#76807e"
-      },
-      "genres": [
-        "Türkçe oyunlar"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Crysis%202%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.01%5D.pkg",
-          "label": "Crysis 2 - [EU] [EN] [1.01].pkg",
-          "filename": "Crysis 2 - [EU] [EN] [1.01].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 15788343296,
-          "version": "01.01",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA18672"
-        }
-      ],
-      "turkish": true
-    },
-    {
-      "id": "CUSA18673",
-      "title": "Crysis3®",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA18673.png",
-        "tint": "#8e9989"
-      },
-      "genres": [
-        "Türkçe oyunlar"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Crysis%203%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.01%5D.pkg",
-          "label": "Crysis 3 - [EU] [EN] [1.01].pkg",
-          "filename": "Crysis 3 - [EU] [EN] [1.01].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 8560246784,
-          "version": "01.01",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA18673"
-        }
-      ],
-      "turkish": true
-    },
-    {
-      "id": "CUSA18671",
-      "title": "Crysis®",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA18671.png",
-        "tint": "#384244"
-      },
-      "genres": [
-        "Türkçe oyunlar"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Crysis%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.03%5D.pkg",
-          "label": "Crysis - [EU] [EN] [1.03].pkg",
-          "filename": "Crysis - [EU] [EN] [1.03].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 11297685504,
-          "version": "01.03",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA18671"
-        }
-      ],
-      "turkish": true
-    },
-    {
-      "id": "CUSA32184",
-      "title": "Cult of the Lamb",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1518/ea3296f59652aea59db01dd6668c93f1dd23102f84d18807.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://cdn.cloudflare.steamstatic.com/steam/apps/1313140/library_600x900.jpg",
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA32184.png",
-          "https://cover.spectrumlibrary.online/COVER/PPSA06465.png"
-        ],
-        "tint": "#b4817a",
-        "hero": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1518/f6c9c95763f1bc5f1934be9914bb4d3c1428cebff2e84c51.png?w=1920&thumb=false"
-      },
-      "genres": [
-        "Türkçe oyunlar",
-        "Simulation",
-        "Action"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Cult%20of%20the%20Lamb%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.29%5D.pkg",
-          "label": "Cult of the Lamb - [EU] [EN] [1.29].pkg",
-          "filename": "Cult of the Lamb - [EU] [EN] [1.29].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 4415946752,
-          "version": "01.29",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA32184"
-        }
-      ],
-      "publisher": "Devolver Digital",
-      "developer": "Massive Monster",
-      "releaseDate": "2022-08-11",
-      "turkish": true
-    },
-    {
-      "id": "CUSA20499",
-      "title": "Cuphead",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/vulcan/img/cfn/11307fllh6D-IvbpCa18N0vRggVeRYWA06paTNCj3DENJMScAzW2f3ry4IwFcXBAt9kWXdZGpGoOGjxJ_e9MdordMVAosNhZ.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA20499.png"
-        ],
-        "tint": "#ccac45",
-        "hero": "https://image.api.playstation.com/vulcan/img/cfn/11307HQJcq5WKs7AcSe1XjxZStGpIWO5gpOiibaqUZ2LN1HQo8jDl3bzLtiX4QxcS8-3O5vlcNGdwtBWF-bkJIRfdjw_7OFy.png?w=1920&thumb=false"
-      },
-      "genres": [
-        "Action"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Cuphead%20-%20%5BUS%5D%20%5BEN%5D%20%5B1.05%5D.pkg",
-          "label": "Cuphead - [US] [EN] [1.05].pkg",
-          "filename": "Cuphead - [US] [EN] [1.05].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 5418582016,
-          "version": "01.05",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA20499"
-        }
-      ],
-      "publisher": "StudioMDHR Entertainment",
-      "releaseDate": "2020-07-28"
-    },
-    {
-      "id": "CUSA16579",
-      "title": "Cyberpunk 2077",
-      "platform": "ps4",
-      "art": {
-        "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202008/0416/6Bo40lnWU0BhgrOUm7Cb6by3.png?w=384&thumb=false",
-        "coverFallbacks": [
-          "https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/cKZ4tKNFj9C00giTzYtH8PF1.png?w=384&thumb=false",
-          "https://image.api.playstation.com/vulcan/ap/rnd/202311/2812/d2a44736cace2e6cb1a8244455e8890b0afb17d663552e7d.png?w=384&thumb=false",
-          "https://archive.org/download/ps4-fpkg-collection-english-icons/CUSA16579.png"
-        ],
-        "tint": "#968e18",
-        "hero": "https://image.api.playstation.com/vulcan/img/rnd/202012/0812/XNCVHQC82IvhX5Gu112FS4gX.png?w=1920&thumb=false"
-      },
-      "genres": [
-        "Türkçe oyunlar",
-        "RPG"
-      ],
-      "releases": [
-        {
-          "url": "https://archive.org/download/ps4-fpkg-collection-english-c/Cyberpunk%202077%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.31%5D.pkg",
-          "label": "Cyberpunk 2077 - [EU] [EN] [1.31].pkg",
-          "filename": "Cyberpunk 2077 - [EU] [EN] [1.31].pkg",
-          "provider": "archive.org",
-          "sizeBytes": 59416903680,
-          "version": "01.31",
-          "format": "pkg",
-          "category": "game",
-          "phstoreExpectedTitleId": "CUSA16579"
-        }
-      ],
-      "publisher": "CD PROJEKT RED S.A.",
-      "developer": "CD PROJEKT RED",
-      "releaseDate": "2020-12-10",
-      "turkish": true
-    },
-    {
       "id": "PH_GOW_2018",
       "title": "God of War (2018)",
       "platform": "ps4",
@@ -16842,7 +16692,7 @@
       },
       "releases": [
         {
-          "url": "https://vik1ngfile.site/f/Zl4rVTFh8F", 
+          "url": "https://vik1ngfile.site/f/Zl4rVTFh8F",
           "browserUrl": "https://vik1ngfile.site/f/Zl4rVTFh8F",
           "filename": "RDR2base.pkg",
           "sizeBytes": 79430000000,
@@ -16887,7 +16737,7 @@
         }
       ]
     },
-        {
+    {
       "id": "PH_PS2_PES27",
       "title": "PES 27 [PS2toPS4]",
       "platform": "ps2",
