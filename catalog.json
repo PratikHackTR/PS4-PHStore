@@ -4,6 +4,52 @@
   "updatedAt": "2026-11-14",
   "games": [
     {
+      "id": "PH_PESvePatch_20207",
+      "title": "Pes 2027 PH-Patch",
+      "platform": "ps4",
+      "turkish": true,
+      "genres": [
+        "Türkçe oyunlar",
+        "Sports",
+        "Football",
+        "Simulation"
+      ],
+      "art": {
+        "cover": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/Neon%20PES%202027%20PS5%20Kutu%20Mockupu.png",
+        "coverFallbacks": [
+          "https://i.hizliresim.com/tx7i1jrq.png"
+        ],
+        "tint": "#5b5a62",
+        "hero": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/PH%20Patch%20PES%202027%20Kozmik%20Tasar%C4%B1m%C4%B1.png"
+      },
+      "releases": [
+        {
+          "url": "https://archive.org/download/burakph-phstore/PHStore/BaseGame%20Pes%202021%20CUSA18740.pkg",
+          "browserUrl": "https://archive.org/download/burakph-phstore/PHStore/BaseGame%20Pes%202021%20CUSA18740.pkg",
+          "filename": "BaseGame Pes 2021 CUSA18740.pkg",
+          "sizeBytes": 33071248179,
+          "format": "pkg",
+          "category": "game",
+          "label": "Ana oyun",
+          "requiresBrowser": false
+        },
+        {
+          "url": "https://archive.org/download/burakph-phstore/PHStore/PHPatch_CUSA18740_v01.39.pkg",
+          "browserUrl": "https://archive.org/download/burakph-phstore/PHStore/PHPatch_CUSA18740_v01.39.pkg",
+          "filename": "PHPatch_CUSA18740_v01.39.pkg",
+          "sizeBytes": 25877177958,
+          "format": "pkg",
+          "category": "patch",
+          "label": "Pes 2021 PH Patch convert to 2027",
+          "requiresBrowser": false
+        }
+      ],
+      "releaseDate": "2026-11-17",
+      "about": [
+        "Önce ana oyunu indirip kurun sonra Yamayı"
+      ]
+    },
+    {
       "id": "JL8LLDRW6_DeepFreeze",
       "title": "Resident Evil 2 — Deep Freeze [PS1toPS4]",
       "platform": "ps4",
