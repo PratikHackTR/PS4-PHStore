@@ -1,8 +1,40 @@
 {
   "version": 1,
   "name": "PHStore PS4",
-  "updatedAt": "2026-11-14",
+  "updatedAt": "2026-11-18",
   "games": [
+    {
+      "id": "PH-Crysis1ReUp CUSA18671",
+      "title": "Crysis 1",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/Crysis1R.png",
+        "tint": "#4d5a5c",
+        "hero": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/Crysis1Hero.jpg"
+      },
+      "genres": [
+        "Action",
+        "Shooter",
+        "Adventure"
+      ],
+      "releases": [
+        {
+          "url": "https://archive.org/download/burakph-phstore/PHStore/Crysis1/Crysis%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.03%5D.pkg",
+          "label": "Crysis - [EU] [EN] [1.03].pkg",
+          "filename": "Crysis - [EU] [EN] [1.03].pkg",
+          "provider": "archive.org",
+          "sizeBytes": 11274289152,
+          "version": "01.03",
+          "format": "pkg",
+          "category": "game",
+          "phstoreExpectedTitleId": "CUSA18671"
+        }
+      ],
+      "publisher": "PHStore",
+      "developer": "BurakPH",
+      "releaseDate": "2026-11-18",
+      "turkish": true
+    },
     {
       "id": "PH_PESvePatch_20207",
       "title": "Pes 2027 PH-Patch",
@@ -123,7 +155,7 @@
       ],
       "addedAt": "2026-11-14",
       "about": [
-        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; tam indirme ve konsol kurulumu ayrıca denenmelidir."
+        "ana oyun kaynağı. Bağlantı küçük dosya isteğiyle kontrol edildi; ."
       ]
     },
     {
