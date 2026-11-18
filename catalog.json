@@ -4,6 +4,59 @@
   "updatedAt": "2026-11-18",
   "games": [
     {
+      "id": "CUSA57767",
+      "title": "Hogwarts Legacy [Türkçe]",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://i.hizliresim.com/wizvfocu.png",
+        "coverFallbacks": [
+          "https://dlpsgame.com/wp-content/uploads/2026/11/4-jkg-1.jpg"
+        ],
+        "tint": "#919a96",
+        "hero": "https://gmedia.playstation.com/is/image/SIEPDC/god-of-war-sons-of-sparta-hero-02-en-03feb26?$4000px$"
+      },
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developer": "Santa Monica Studios",
+      "publisher": "Santa Monica",
+      "addedAt": "2026-11-18",
+      "turkish": true,
+      "about": [
+        "Sons of Sparta oyunu. Archive.org ve VikingFile aynı oyunun alternatif indirme kaynaklarıdır; kaynaklardan birini seçmeniz yeterlidir."
+      ],
+      "releases": [
+        {
+          "url": "https://archive.org/download/burakph-phstore/PHStore/CUSA57767%20Sons%20Of%20Sparta.pkg",
+          "label": "Archive.org — doğrudan indirme",
+          "provider": "archive.org",
+          "filename": "CUSA57767 Sons Of Sparta.pkg ",
+          "format": "pkg",
+          "category": "game",
+          "version": "01.00",
+          "sizeBytes": 5592252416,
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "CUSA57767",
+          "record": "SoP-TR-1.00"
+        },
+        {
+          "url": "https://vik1ngfile.site/f/YHYhgKv5jO",
+          "label": "VikingFile — telefon köprüsü",
+          "provider": "VikingFile",
+          "filename": "CUSA57767 Sons Of Sparta.pkg",
+          "format": "pkg",
+          "category": "game",
+          "version": "01.00",
+          "sizeBytes": 5592252416,
+          "requiresBrowser": true,
+          "phstoreExpectedTitleId": "CUSA57767",
+          "record": "SoP-TR-1.00"
+        }
+      ]
+    },
+    
+    {
       "id": "CUSA12771",
       "title": "Hogwarts Legacy [Türkçe]",
       "platform": "ps4",
