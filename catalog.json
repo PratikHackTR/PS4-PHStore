@@ -4,7 +4,61 @@
   "updatedAt": "2026-11-18",
   "games": [
     {
-      "id": "PH-Crysis1ReUp CUSA18671",
+      "id": "CUSA12771",
+      "title": "Hogwarts Legacy [Türkçe]",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/HogwartsLegacyburakph.png",
+        "coverFallbacks": [
+          "https://i.hizliresim.com/8ytsqufw.png"
+        ],
+        "tint": "#919a96",
+        "hero": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/hogwartsLegacyhero.png"
+      },
+      "genres": [
+        "Action",
+        "Adventure",
+        "RPG"
+      ],
+      "developer": "Avalanche Software",
+      "publisher": "Warner Bros. Games",
+      "addedAt": "2026-11-18",
+      "turkish": true,
+      "about": [
+        "Hogwarts Legacy Türkçe sürümü. Archive.org ve VikingFile aynı oyunun alternatif indirme kaynaklarıdır; kaynaklardan birini seçmeniz yeterlidir."
+      ],
+      "releases": [
+        {
+          "url": "https://archive.org/download/burakph-phstore/PHStore/CUSA12771_HogwartsLegacy_TR_1.00.pkg",
+          "label": "Archive.org — doğrudan indirme",
+          "provider": "archive.org",
+          "filename": "CUSA12771_HogwartsLegacy_TR_1.00.pkg",
+          "format": "pkg",
+          "category": "game",
+          "version": "01.00",
+          "sizeBytes": 40190803968,
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "CUSA12771",
+          "record": "HOGWARTS-TR-1.00"
+        },
+        {
+          "url": "https://vik1ngfile.site/f/BvTiNvmunL",
+          "label": "VikingFile — telefon köprüsü",
+          "provider": "VikingFile",
+          "filename": "CUSA12771_HogwartsLegacy_TR_1.00.pkg",
+          "format": "pkg",
+          "category": "game",
+          "version": "01.00",
+          "sizeBytes": 40190803968,
+          "requiresBrowser": true,
+          "phstoreExpectedTitleId": "CUSA12771",
+          "record": "HOGWARTS-TR-1.00"
+        }
+      ],
+      "videoUrl": "https://youtu.be/mBYcaj_40aY"
+    },
+    {
+      "id": "PH-Crysis1ReUp_CUSA18671",
       "title": "Crysis 1",
       "platform": "ps4",
       "art": {
@@ -63,7 +117,8 @@
           "format": "pkg",
           "category": "game",
           "label": "Ana oyun",
-          "requiresBrowser": false
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "CUSA18740"
         },
         {
           "url": "https://archive.org/download/burakph-phstore/PHStore/PHPatch_CUSA18740_v01.39.pkg",
@@ -73,7 +128,8 @@
           "format": "pkg",
           "category": "patch",
           "label": "Pes 2021 PH Patch convert to 2027",
-          "requiresBrowser": false
+          "requiresBrowser": false,
+          "phstoreExpectedTitleId": "CUSA18740"
         }
       ],
       "releaseDate": "2026-11-17",
