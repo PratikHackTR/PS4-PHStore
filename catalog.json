@@ -3,9 +3,45 @@
   "name": "PHStore PS4",
   "updatedAt": "2026-11-18",
   "games": [
+     {
+      "id": "PH-GtaVReUp_CUSA00419",
+      "title": "Grand Theft Auto V - GTA 5",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://i.hizliresim.com/rnmbdjhj.png",
+        "tint": "#4d5a5c",
+        "hero": "https://i.hizliresim.com/yntwxgdf.png"
+      },
+      "genres": [
+        "Action",
+        "Shooter",
+        "Adventure",
+        "Simulation"
+      ],
+        "about": [
+        "Gta 5 , Grand theft Auto V , yakında mod menü ve Türkçe dil eklenecektir sadece şu an değil"
+      ],
+      "releases": [
+        {
+          "url": "https://archive.org/download/burakph-phstore/PHStore/GTA5/Grand%20Theft%20Auto%20V%20-%20%5BUS%5D%20%5BEN%5D%20%5B1.52%5D.pkg",
+          "label": "Grand Theft Auto V - [US] [EN] [1.52].pkg",
+          "filename": "Grand Theft Auto V - [US] [EN] [1.52].pkg",
+          "provider": "archive.org",
+          "sizeBytes": 93200790323,
+          "version": "01.52",
+          "format": "pkg",
+          "category": "game",
+          "phstoreExpectedTitleId": "CUSA00419"
+        }
+      ],
+      "publisher": "PHStore",
+      "developer": "BurakPH",
+      "releaseDate": "2026-11-18",
+      "turkish": false
+    },
     {
       "id": "CUSA57767",
-      "title": "Hogwarts Legacy [Türkçe]",
+      "title": "God Of War Sons of Sparta",
       "platform": "ps4",
       "art": {
         "cover": "https://i.hizliresim.com/wizvfocu.png",
