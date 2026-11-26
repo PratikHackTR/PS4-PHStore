@@ -4,6 +4,79 @@
   "updatedAt": "2026-11-18",
   "games": [
     {
+      "id": "Uncharted4",
+      "title": "Uncharted 4",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/Uncharted4cover.png",
+        "tint": "#0994eb",
+        "hero": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/unc4hero.jpg"
+      },
+      "genres": [
+        "Action",
+        "Adventure",
+        "Story",
+        "Singe Player"
+      ],
+        "about": [
+        "UNCHARTED 3: Drake’s Deception'da yaşanan olayların üzerinden geçen üç yıldan sonra Nathan Drake, servet avcılığı dünyasını büyük ölçüde arkasında bırakır. Fakat Drake’in kardeşi Sam, hayatını kurtarması için ondan yardım ister ve Drake'e karşı koyamayacağı bir macera teklifi sunmasıyla kaderin yön değiştirmesi fazla uzun sürmez.   Kaptan Henry Avery’nin uzun zaman önce kaybolmuş hazinesinin peşine düşen Sam ve Drake, Madagaskar ormanlarının derinliklerindeki korsan ütopyası Libertalia'yı bulmak için yola koyulur. UNCHARTED 4: Bir Hırsızın Sonu, oyuncuların Avery'nin hazinesini aramaları için orman adalarına, uzaklara yayılmış şehirlere ve karla kaplı dağlara kadar tüm dünyada geçen bir yolculuğa götürüyor."
+      ],
+      "releases": [
+        {
+          "url": "https://archive.org/download/burakph-phstore/PHStore/unc4TrDub.pkg",
+          "label": "unc4TrDub.pkg",
+          "filename": "unc4TrDub.pkg",
+          "provider": "archive.org",
+          "sizeBytes": 47566762803,
+          "version": "01.32",
+          "format": "pkg",
+          "category": "game",
+          "phstoreExpectedTitleId": "CUSA04529"
+        }
+      ],
+      "publisher": "PHStore",
+      "developer": "BurakPH",
+      "releaseDate": "2026-11-27",
+      "turkish": true
+    },
+     {
+      "id": "GowR",
+      "title": "God of War Ragnarök",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://i.hizliresim.com/dvumaebd.png",
+        "tint": "#0994eb",
+        "hero": "https://www.oyungunlugu.com/uploads/images/news/god-of-war-ragnarok-1920-1080.jpg"
+      },
+      "genres": [
+        "Open World",
+        "Action",
+        "Adventure",
+        "Story",
+        "Singe Player"
+      ],
+        "about": [
+        "God of War Ragnarök oyunu Türkçe altyazı bulunmaktadır Dublaj yaması ilerde eklenecektir."
+      ],
+      "releases": [
+        {
+          "url": "https://archive.org/download/burakph-phstore/PHStore/gowr/God%20of%20War%20Ragnar%C3%B6k%20-%20%5BUS%5D%20%5BEN%5D%20%5B6.05%5D.pkg",
+          "label": "God of War Ragnarök - [US] [EN] [6.05].pkg",
+          "filename": "God of War Ragnarök - [US] [EN] [6.05].pkg",
+          "provider": "archive.org",
+          "sizeBytes": 98247376896,
+          "version": "06.05",
+          "format": "pkg",
+          "category": "game",
+          "phstoreExpectedTitleId": "CUSA34384"
+        }
+      ],
+      "publisher": "PHStore",
+      "developer": "BurakPH",
+      "releaseDate": "2026-11-27",
+      "turkish": true
+    },
+    {
       "id": "PH-Spider-man",
       "title": "Marvel's Spider-Man",
       "platform": "ps4",
