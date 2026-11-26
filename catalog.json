@@ -3,6 +3,80 @@
   "name": "PHStore PS4",
   "updatedAt": "2026-11-18",
   "games": [
+    {
+      "id": "PH-Spider-man",
+      "title": "Marvel's Spider-Man",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/smcover.png",
+        "tint": "#cf0808",
+        "hero": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/smhero.jpg"
+      },
+      "genres": [
+        "Open World",
+        "Action",
+        "Adventure",
+        "Story",
+        "Singe Player"
+      ],
+        "about": [
+        "Marvel's Spider-man 1 oyunudur istekler doğrultusunda eklenmiştir"
+      ],
+      "releases": [
+        {
+          "url": "https://archive.org/download/burakph-phstore/PHStore/minecraft/Minecraft%20-%20%5BEU%5D%20%5BEN%5D%20%5B3.05%5D.pkg",
+          "label": "Marvel's Spider-Man - [US] [EN] [1.19].pkg",
+          "filename": "Marvel's Spider-Man - [US] [EN] [1.19].pkg",
+          "provider": "archive.org",
+          "sizeBytes": 63887638528,
+          "version": "01.00",
+          "format": "pkg",
+          "category": "game",
+          "phstoreExpectedTitleId": "CUSA02299"
+        }
+      ],
+      "publisher": "PHStore",
+      "developer": "BurakPH",
+      "releaseDate": "2026-11-26",
+      "turkish": false
+    },
+{
+      "id": "PH-MinecraftReUp",
+      "title": "Minecraft - MC - mayncraft",
+      "platform": "ps4",
+      "art": {
+        "cover": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/minecraftcover.png",
+        "tint": "#0994eb",
+        "hero": "https://raw.githubusercontent.com/PratikHackTR/PS4-PHStore/refs/heads/main/img/minecrafthero.png"
+      },
+      "genres": [
+        "Sanbox",
+        "Survival",
+        "Adventure",
+        "Creative",
+        "Action"
+      ],
+        "about": [
+        "Minecraft istekler doğrultusunda eklenmiştir"
+      ],
+      "releases": [
+        {
+          "url": "https://archive.org/download/burakph-phstore/PHStore/minecraft/Minecraft%20-%20%5BEU%5D%20%5BEN%5D%20%5B3.05%5D.pkg",
+          "label": "Minecraft - [EU] [EN] [3.05].pkg",
+          "filename": "Minecraft - [EU] [EN] [3.05].pkg",
+          "provider": "archive.org",
+          "sizeBytes": 2362232013,
+          "version": "01.00",
+          "format": "pkg",
+          "category": "game",
+          "phstoreExpectedTitleId": "CUSA00265"
+        }
+      ],
+      "publisher": "PHStore",
+      "developer": "BurakPH",
+      "releaseDate": "2026-11-26",
+      "turkish": false
+    },
 {
       "id": "CUSA12771",
       "title": "Hogwarts Legacy [Türkçe]",
@@ -22,7 +96,7 @@
       ],
       "developer": "Avalanche Software",
       "publisher": "Warner Bros. Games",
-      "addedAt": "2026-11-18",
+      "addedAt": "2026-11-20",
       "turkish": true,
       "about": [
         "Hogwarts Legacy Türkçe sürümü. Prolog bölümden sonra update isteyecek aşağıdan update'i de kurabilirsiniz. eğer indirdiketn sonra kurmaz ise ana menüdeki goldhenmenüsüne dönün orada package installerdan hdd'i seçip oradan manuel kurun"
@@ -60,7 +134,7 @@
 
      {
       "id": "PH-GtaVReUp_CUSA00419",
-      "title": "Grand Theft Auto V - GTA 5",
+      "title": "Grand Theft Auto V - GTA 5 - Gta5",
       "platform": "ps4",
       "art": {
         "cover": "https://i.hizliresim.com/rnmbdjhj.png",
